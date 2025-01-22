@@ -1,1 +1,5 @@
-#EXTM3U x-tvg-url="https://izanami1618.github.io/TMDB/movies.m3u8" x-tvg-url="https://izanami1618.github.io/TMDB/series.m3u8"
+#EXTM3U 
+#EXTINF:0
+https://izanami1618.github.io/TMDB/movies.m3u8
+#EXTINF:0
+https://izanami1618.github.io/TMDB/series.m3u8
