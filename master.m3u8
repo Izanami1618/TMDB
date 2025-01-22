@@ -1,7 +1,3 @@
 #EXTM3U
-
-#EXTINF:0 tvg-type="movie" 
 https://izanami1618.github.io/TMDB/movies.m3u8
-
-#EXTINF:0 tvg-type="serie"
 https://izanami1618.github.io/TMDB/series.m3u8
