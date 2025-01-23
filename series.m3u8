@@ -1,34 +1,47 @@
 #EXTM3U
 
 #SERIES
+#CBS
 #FBI: INTERNATIONAL
 #SEASON 4
-#EXTINF:0 group-title="CBS Network" tvg-name="FBI: International | Episode 05" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg" serie-title="FBI: International" tvg-type="serie" tvg-serie="FBI:International" tvg-season="4" tvg-episode="5", FBI: International | Episode 05
+#EXTINF:0 group-title="CBS Network" tvg-name="FBI: International | Episode 05" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg" serie-title="FBI: International" tvg-type="serie" tvg-serie="FBI:International" tvg-season="4", FBI: International | Episode 05
 https://ia802207.us.archive.org/0/items/fbi-international_20250120/FBI%20-%20International%2FSeason%204%2FFBI-%20International%20S4E05.mp4
-#EXTINF:0 group-title="CBS Network" tvg-name="FBI: International | Episode 06" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg" serie-title="FBI: International" tvg-type="serie" tvg-serie="FBI:International" tvg-season="4" tvg-episode="6", FBI: International | Episode 06
+
+#EXTINF:0 group-title="CBS Network" tvg-name="FBI: International | Episode 06" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg" serie-title="FBI: International" tvg-type="serie" tvg-serie="FBI:International" tvg-season="4", FBI: International | Episode 06
 https://ia902207.us.archive.org/0/items/fbi-international_20250120/FBI%20-%20International%2FSeason%204%2FFBI-%20International%20S4E06.mp4
-#EXTINF:0 group-title="CBS Network" tvg-name="FBI: International | Episode 07" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg" serie-title="FBI: International" tvg-type="serie" tvg-serie="FBI:International" tvg-season="4" tvg-episode="7", FBI: International | Episode 07
+
+#EXTINF:0 group-title="CBS Network" tvg-name="FBI: International | Episode 07" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg" serie-title="FBI: International" tvg-type="serie" tvg-serie="FBI:International" tvg-season="4", FBI: International | Episode 07
 https://ia902207.us.archive.org/0/items/fbi-international_20250120/FBI%20-%20International%2FSeason%204%2FFBI-%20International%20S4E07.mp4
-#EXTINF:0 group-title="CBS Network" tvg-name="FBI: International | Episode 08" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg" serie-title="FBI: International" tvg-type="serie" tvg-serie="FBI:International" tvg-season="4" tvg-episode="8", FBI: International | Episode 08
+
+#EXTINF:0 group-title="CBS Network" tvg-name="FBI: International | Episode 08" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg" serie-title="FBI: International" tvg-type="serie" tvg-serie="FBI:International" tvg-season="4", FBI: International | Episode 08
 https://ia802207.us.archive.org/0/items/fbi-international_20250120/FBI%20-%20International%2FSeason%204%2FFBI-%20International%20S4E08.mp4
 
+
+#PARAMOUNT NETWORK
 #OPS: Lioness
 #Season 1
 #Season 2
-#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 01" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2" tvg-episode="1", OPS: Lioness | Episode 01
+#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 01" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2", OPS: Lioness | Episode 01
 https://ia902207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E01.mp4
-#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 02" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2" tvg-episode="2", OPS: Lioness | Episode 02
+
+#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 02" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2", OPS: Lioness | Episode 02
 https://ia802207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E02.mp4
-#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 03" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2" tvg-episode="3", OPS: Lioness | Episode 03
+
+#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 03" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2", OPS: Lioness | Episode 03
 https://ia802207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E01.mp4
-#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 04" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2" tvg-episode="4", OPS: Lioness | Episode 04
+
+#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 04" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2", OPS: Lioness | Episode 04
 https://ia802207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E04.mp4
-#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 05" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2" tvg-episode="5", OPS: Lioness | Episode 05
+
+#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 05" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2", OPS: Lioness | Episode 05
 https://ia802207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E05.mp4
-#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 06" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2" tvg-episode="6", OPS: Lioness | Episode 06
+
+#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 06" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2", OPS: Lioness | Episode 06
 https://ia802207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E06.mp4
-#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 07" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2" tvg-episode="7", OPS: Lioness | Episode 07
+
+#EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 07" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2", OPS: Lioness | Episode 07
 https://ia802207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E07.mp4
+
 #EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 08" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2" tvg-episode="8", OPS: Lioness | Episode 08
 https://ia902207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E08.mp4
 
