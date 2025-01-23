@@ -1,21 +1,19 @@
 #EXTM3U
 #MOVIES
+#ESTRENOS 2025
+
+
 #ESTRENOS 2024
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Twisters (2024)" tvg-logo="https://i.ibb.co/9n0rmTw/Twisters.jpg" tvg-type="movie", Twisters (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/Twisters%20%282024%29.mp4
-
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Culpa Tuya (2024)" tvg-logo="https://i.ibb.co/R2wm2x3/Culpa-Tuya.jpg" tvg-type="movie", Culpa Tuya (2024)
 https://ia902303.us.archive.org/22/items/estrenos-2024/Culpa%20Tuya.mp4
-
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="FLOW (2024)" tvg-logo="https://i.ibb.co/Zd7kDfc/Flow.jpg" tvg-type="movie", FLOW (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/FLOW%20%282024%29.mp4
-
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Mi Villano Favorito 4 (2024)" tvg-logo="https://i.ibb.co/wWMLs7Q/Mi-villano-favorito-4.jpg" tvg-type="movie", Mi Villano Favorito 4 (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/Mi%20Villano%20Favorito%204%20%282024%29.mp4
-
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Código: Traje Rojo (2024)" tvg-logo="https://i.ibb.co/0FbjvkD/Codigo-Traje-Rojo.jpg" tvg-type="movie", Código: Traje Rojo (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/Red%20One.mp4
-
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Transformers: ONE (2024)" tvg-logo="https://i.ibb.co/bXPZKcR/Transformers-0ne.jpg" tvg-type="movie", Transformers: ONE (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/TRANSFORMERS%20ONE%20%282024%29.mp4
 
@@ -27,17 +25,31 @@ https://ia802303.us.archive.org/22/items/estrenos-2024/TRANSFORMERS%20ONE%20%282
 #PRIME VIDEO
 #EXTINF:0 group-title="PRIME VIDEO" tvg-name="Culpa Tuya (2024)" tvg-logo="https://i.ibb.co/R2wm2x3/Culpa-Tuya.jpg" tvg-type="movie", Culpa Tuya (2024)
 https://ia902303.us.archive.org/22/items/estrenos-2024/Culpa%20Tuya.mp4
-
 #EXTINF:0 group-title="PRIME VIDEO" tvg-name="Culpa Mia (2023)" tvg-logo="https://i.ibb.co/PgCK4Jw/Culpa-Mia.jpg" tvg-type="movie", Culpa Mia (2023)
 https://ia802303.us.archive.org/22/items/estrenos-2024/Culpa%20M%C3%ADa.mp4
-
 #EXTINF:0 group-title="PRIME VIDEO" tvg-name="Mi Villano Favorito 4 (2024)" tvg-logo="https://i.ibb.co/wWMLs7Q/Mi-villano-favorito-4.jpg" tvg-type="movie", Mi Villano Favorito 4 (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/Mi%20Villano%20Favorito%204%20%282024%29.mp4
-
 #EXTINF:0 group-title="PRIME VIDEO" tvg-name="Transformers: ONE (2024)" tvg-logo="https://i.ibb.co/bXPZKcR/Transformers-0ne.jpg" tvg-type="movie", Transformers: ONE (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/TRANSFORMERS%20ONE%20%282024%29.mp4
+#EXTINF:0 group-title="PRIME VIDEO" tvg-name="Edge Of Tomorrow (2014)" tvg-logo="https://i.ibb.co/ncprF0w/Edge-Of-Tomorrow.jpg" tvg-type="movie", Edge Of Tomorrow (2014)
+https://ia600108.us.archive.org/20/items/movies_20250123/EDGE%20OF%20TOMORROW%20%282014%29.mp4
+#EXTINF:0 group-title="PRIME VIDEO" tvg-name="War Of Tomorrow (2023)" tvg-logo="https://i.ibb.co/jJ39hKg/The-Tomorrow-War.jpg" tvg-type="movie", War Of Tomorrow (2023)
+https://ia600108.us.archive.org/20/items/movies_20250123/THE%20TOMORROW%20WAR%20%282021%29.mp4
 
 
+
+
+
+
+
+
+
+
+
+
+#DISNEY +
+#EXTINF:0 group-title="DISNEY +" tvg-name="El Dia Despues De Mañana (2004)" tvg-logo="https://i.ibb.co/pxXNp63/El-Dia-Despues-De-Ma-ana.jpg" tvg-type="movie", El Dia Despues De Mañana (2004)
+https://ia600108.us.archive.org/20/items/movies_20250123/EL%20DIA%20DESPUES%20DE%20MA%C3%91ANA%20%282004%29.mp4
 
 
 
@@ -49,19 +61,14 @@ https://ia802303.us.archive.org/22/items/estrenos-2024/TRANSFORMERS%20ONE%20%282
 #PARAMOUNT +
 #EXTINF:0 group-title="PARAMOUNT +" tvg-name="Transformers (2004)" tvg-logo="https://i.ibb.co/C6gbftT/Transformers.jpg" tvg-type="movie", Transformers (2004)
 https://ia802303.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20%282007%29.mkv
-
 #EXTINF:0 group-title="PARAMOUNT +" tvg-name="Transformers: Revenge Of The Fallen (2007)" tvg-logo="https://i.ibb.co/gVZPm3d/Transformers-2.jpg" tvg-type="movie", Transformers: Revenge Of The Fallen (2007)
 https://ia802304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20REVENGE%20OF%20THE%20FALLEN%20%282009%29.mkv
-
 #EXTINF:0 group-title="PARAMOUNT +" tvg-name="Transformers: Dark Of The Moon (2011)" tvg-logo="https://i.ibb.co/N6c1V7s/Transformers-3.jpg" tvg-type="movie", Transformers: Dark Of The Moon (2011)
 https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20DARK%20OF%20THE%20MOON%20%282011%29.mkv
-
 #EXTINF:0 group-title="PARAMOUNT +" tvg-name="Transformers: Age Of Extinction (2014)" tvg-logo="https://i.ibb.co/ByHzfGJ/Transformers-4.jpg" tvg-type="movie", Transformers: Age Of Extinction (2014)
 https://ia802304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20AGE%20OF%20EXTINTION%20%282014%29.mkv
-
 #EXTINF:0 group-title="PARAMOUNT +" tvg-name="Transformers: The Last Knight (2017)" tvg-logo="https://i.ibb.co/wrRqbzg/Transformers-5.jpg" tvg-type="movie", Transformers: The Last Knight (2017)
 https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20THE%20LAST%20KNIGHT%20%282017%29.mkv
-
 #EXTINF:0 group-title="PARAMOUNT +" tvg-name="Transformers: Rise Of The Beast (2023)" tvg-logo="https://i.ibb.co/WH3CsKd/Transformers-6.jpg" tvg-type="movie", Transformers: Rise Of The Beast (2023)
 https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20RISE%20OF%20THE%20BEAST%20%282023%29.mkv
 
@@ -82,25 +89,18 @@ https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20RISE%20
 #SAGAS
 #EXTINF:0 group-title="SAGAS" tvg-name="Transformers (2004)" tvg-logo="https://i.ibb.co/C6gbftT/Transformers.jpg" tvg-type="movie", Transformers (2004)
 https://ia802303.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20%282007%29.mkv
-
 #EXTINF:0 group-title="SAGAS" tvg-name="Transformers: Revenge Of The Fallen (2007)" tvg-logo="https://i.ibb.co/gVZPm3d/Transformers-2.jpg" tvg-type="movie", Transformers: Revenge Of The Fallen (2007)
 https://ia802304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20REVENGE%20OF%20THE%20FALLEN%20%282009%29.mkv
-
 #EXTINF:0 group-title="SAGAS" tvg-name="Transformers: Dark Of The Moon (2011)" tvg-logo="https://i.ibb.co/N6c1V7s/Transformers-3.jpg" tvg-type="movie", Transformers: Dark Of The Moon (2011)
 https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20DARK%20OF%20THE%20MOON%20%282011%29.mkv
-
 #EXTINF:0 group-title="SAGAS" tvg-name="Transformers: Age Of Extindtion (2014)" tvg-logo="https://i.ibb.co/ByHzfGJ/Transformers-4.jpg" tvg-type="movie", Transformers: Age Of Extindtion (2014)
 https://ia802304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20AGE%20OF%20EXTINTION%20%282014%29.mkv
-
 #EXTINF:0 group-title="SAGAS" tvg-name="Transformers: The Last Knight (2017)" tvg-logo="https://i.ibb.co/wrRqbzg/Transformers-5.jpg" tvg-type="movie", Transformers: The Last Knight (2017)
 https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20THE%20LAST%20KNIGHT%20%282017%29.mkv
-
 #EXTINF:0 group-title="SAGAS" tvg-name="Transformers: Rise Of The Beast (2023)" tvg-logo="https://i.ibb.co/WH3CsKd/Transformers-6.jpg" tvg-type="movie", Transformers: Rise Of The Beast (2023)
 https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20RISE%20OF%20THE%20BEAST%20%282023%29.mkv
-
 #EXTINF:0 group-title="SAGAS" tvg-name="Transformers: ONE (2024)" tvg-logo="https://i.ibb.co/bXPZKcR/Transformers-0ne.jpg" tvg-type="movie", Transformers: ONE (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/TRANSFORMERS%20ONE%20%282024%29.mp4
-
 #EXTINF:0 group-title="SAGAS" tvg-name="Mi Villano Favorito 4 (2024)" tvg-logo="https://i.ibb.co/wWMLs7Q/Mi-villano-favorito-4.jpg" tvg-type="movie", Mi Villano Favorito 4 (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/Mi%20Villano%20Favorito%204%20%282024%29.mp4
 
@@ -120,15 +120,19 @@ https://ia802303.us.archive.org/22/items/estrenos-2024/Mi%20Villano%20Favorito%2
 #SEASON 4
 #EXTINF:0 group-title="CBS Network" tvg-name="FBI: International | Episode 05" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg" serie-title="FBI: International" tvg-type="serie" tvg-serie="FBI:International" tvg-season="4"
 https://ia802207.us.archive.org/0/items/fbi-international_20250120/FBI%20-%20International%2FSeason%204%2FFBI-%20International%20S4E05.mp4
-
 #EXTINF:0 group-title="CBS Network" tvg-name="FBI: International | Episode 06" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg" serie-title="FBI: International" tvg-type="serie" tvg-serie="FBI:International" tvg-season="4"
 https://ia902207.us.archive.org/0/items/fbi-international_20250120/FBI%20-%20International%2FSeason%204%2FFBI-%20International%20S4E06.mp4
-
 #EXTINF:0 group-title="CBS Network" tvg-name="FBI: International | Episode 07" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg" serie-title="FBI: International" tvg-type="serie" tvg-serie="FBI:International" tvg-season="4"
 https://ia902207.us.archive.org/0/items/fbi-international_20250120/FBI%20-%20International%2FSeason%204%2FFBI-%20International%20S4E07.mp4
-
 #EXTINF:0 group-title="CBS Network" tvg-name="FBI: International | Episode 08" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg" serie-title="FBI: International" tvg-type="serie" tvg-serie="FBI:International" tvg-season="4"
 https://ia802207.us.archive.org/0/items/fbi-international_20250120/FBI%20-%20International%2FSeason%204%2FFBI-%20International%20S4E08.mp4
+
+
+
+
+
+
+
 
 
 #PARAMOUNT NETWORK
@@ -137,30 +141,79 @@ https://ia802207.us.archive.org/0/items/fbi-international_20250120/FBI%20-%20Int
 #Season 2
 #EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 01" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2"
 https://ia902207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E01.mp4
-
 #EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 02" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2"
 https://ia802207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E02.mp4
-
 #EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 03" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2"
 https://ia802207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E01.mp4
-
 #EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 04" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2"
 https://ia802207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E04.mp4
-
 #EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 05" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2"
 https://ia802207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E05.mp4
-
 #EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 06" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2"
 https://ia802207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E06.mp4
-
 #EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 07" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2"
 https://ia802207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E07.mp4
-
 #EXTINF:0 group-title="Paramount Network" tvg-name="OPS: Lioness | Episode 08" tvg-logo="https://i.ibb.co/3Tkj5w6/OPS-Lioness.jpg" serie-title="OPS: Lioness" tvg-type="serie" tvg-serie="OPS: Lioness" tvg-season="2" tvg-episode="8"
 https://ia902207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E08.mp4
 
 
 
+#NETLIX
+#SQUID GAMES
+#SEASON 1
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 01" tvg-logo="https://i.ibb.co/NrgHW6Y/Squid-Game.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 02" tvg-logo="https://i.ibb.co/NrgHW6Y/Squid-Game.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 03" tvg-logo="https://i.ibb.co/NrgHW6Y/Squid-Game.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 04" tvg-logo="https://i.ibb.co/NrgHW6Y/Squid-Game.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 05" tvg-logo="https://i.ibb.co/NrgHW6Y/Squid-Game.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 06" tvg-logo="https://i.ibb.co/NrgHW6Y/Squid-Game.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 07" tvg-logo="https://i.ibb.co/NrgHW6Y/Squid-Game.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 08" tvg-logo="https://i.ibb.co/NrgHW6Y/Squid-Game.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
+
+
+#SEASON 2
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 01" tvg-logo="https://i.ibb.co/zFsxScL/Squid-Game-2.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="2"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 02" tvg-logo="https://i.ibb.co/zFsxScL/Squid-Game-2.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="2"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 03" tvg-logo="https://i.ibb.co/zFsxScL/Squid-Game-2.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="2"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 04" tvg-logo="https://i.ibb.co/zFsxScL/Squid-Game-2.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="2"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 05" tvg-logo="https://i.ibb.co/zFsxScL/Squid-Game-2.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="2"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 06" tvg-logo="https://i.ibb.co/zFsxScL/Squid-Game-2.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="2"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 07" tvg-logo="https://i.ibb.co/zFsxScL/Squid-Game-2.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="2"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 08" tvg-logo="https://i.ibb.co/zFsxScL/Squid-Game-2.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="2"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 09" tvg-logo="https://i.ibb.co/zFsxScL/Squid-Game-2.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="2"
+
+
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | Episode 10" tvg-logo="https://i.ibb.co/zFsxScL/Squid-Game-2.jpg" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="2"
 
 
 
@@ -168,30 +221,41 @@ https://ia902207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E08.m
 
 
 
+#APPLE TV +
+#SILO
+#SEASON 1
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 01" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="1"
 
 
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 02" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="1"
 
 
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 03" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="1"
 
 
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 04" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="1"
 
 
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 05" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="1"
 
 
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 06" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="1"
 
 
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 07" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="1"
 
 
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 08" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="1"
 
 
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 09" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="1"
 
 
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 10" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="1"
 
 
-
-
-
-
+#SEASON 2
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 01" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="2"
 
 
 
