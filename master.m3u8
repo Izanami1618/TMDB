@@ -16,10 +16,14 @@ https://ia802303.us.archive.org/22/items/estrenos-2024/Mi%20Villano%20Favorito%2
 https://ia802303.us.archive.org/22/items/estrenos-2024/Red%20One.mp4
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Transformers: ONE (2024)" tvg-logo="https://i.ibb.co/bXPZKcR/Transformers-0ne.jpg" tvg-type="movie", Transformers: ONE (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/TRANSFORMERS%20ONE%20%282024%29.mp4
+#EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Beekeeper (2024)" tvg-logo="https://i.ibb.co/MM6xYwv/Beekeeper.jpg" tvg-type="movie", Beekeeper (2024)
+https://ia902303.us.archive.org/22/items/estrenos-2024/Beekeeper%20%282024%29.mp4
 
+#EXTINF:0 group-title="ESTRENOS 2024" tvg-name="El Señor De Los Anillos - La Guerra De  Los Rohirrim (2024)" tvg-logo="https://i.ibb.co/YZfDgBr/Se-or-de-los-anillos.jpg" tvg-type="movie", El Señor De Los Anillos - La Guerra De  Los Rohirrim (2024)
+https://ia902303.us.archive.org/22/items/estrenos-2024/El%20Se%C3%B1or%20De%20Los%20Anillos%20-%20La%20Guerra%20De%20%20Los%20Rohirrim%20%282024%29.mp4
 
-
-
+#EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Gladiador II (2024)" tvg-logo="https://i.ibb.co/d7tYTjg/Gladiador-2.jpg" tvg-type="movie", Gladadior II (2024)
+https://ia902303.us.archive.org/22/items/estrenos-2024/Gladiador%20II%20%282024%29.mkv
 
 
 #PRIME VIDEO
@@ -35,7 +39,8 @@ https://ia802303.us.archive.org/22/items/estrenos-2024/TRANSFORMERS%20ONE%20%282
 https://ia600606.us.archive.org/26/items/movies_20250123_2146/Edge%20Of%20Tomorrow%20%282014%29%20Blu-Ray.webm
 #EXTINF:0 group-title="PRIME VIDEO" tvg-name="The Tomorrow War (2023)" tvg-logo="https://i.ibb.co/jJ39hKg/The-Tomorrow-War.jpg" tvg-type="movie", The Tomorrow War (2023)
 https://ia600606.us.archive.org/26/items/movies_20250123_2146/The%20Tomorrow%20War%20%282021%29.webm
-
+#EXTINF:0 group-title="PRIME VIDEO" tvg-name="Beekeeper (2024)" tvg-logo="https://i.ibb.co/MM6xYwv/Beekeeper.jpg" tvg-type="movie", Beekeeper (2024)
+https://ia902303.us.archive.org/22/items/estrenos-2024/Beekeeper%20%282024%29.mp4
 
 
 
@@ -45,7 +50,8 @@ https://ia600606.us.archive.org/26/items/movies_20250123_2146/The%20Tomorrow%20W
 #APPLE TV +
 #EXTINF:0 group-title="APPLE TV +" tvg-name="FLOW (2024)" tvg-logo="https://i.ibb.co/Zd7kDfc/Flow.jpg" tvg-type="movie", FLOW (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/FLOW%20%282024%29.mp4
-
+#EXTINF:0 group-title="APPLE TV +" tvg-name="El Señor De Los Anillos - La Guerra De  Los Rohirrim (2024)" tvg-logo="https://i.ibb.co/YZfDgBr/Se-or-de-los-anillos.jpg" tvg-type="movie", El Señor De Los Anillos - La Guerra De  Los Rohirrim (2024)
+https://ia902303.us.archive.org/22/items/estrenos-2024/El%20Se%C3%B1or%20De%20Los%20Anillos%20-%20La%20Guerra%20De%20%20Los%20Rohirrim%20%282024%29.mp4
 
 
 
@@ -83,7 +89,8 @@ https://ia802304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20AGE%20O
 https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20THE%20LAST%20KNIGHT%20%282017%29.mkv
 #EXTINF:0 group-title="PARAMOUNT +" tvg-name="Transformers: Rise Of The Beast (2023)" tvg-logo="https://i.ibb.co/WH3CsKd/Transformers-6.jpg" tvg-type="movie", Transformers: Rise Of The Beast (2023)
 https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20RISE%20OF%20THE%20BEAST%20%282023%29.mkv
-
+#EXTINF:0 group-title="PARAMOUNT +" tvg-name="Gladiador II (2024)" tvg-logo="https://i.ibb.co/d7tYTjg/Gladiador-2.jpg" tvg-type="movie", Gladadior II (2024)
+https://ia902303.us.archive.org/22/items/estrenos-2024/Gladiador%20II%20%282024%29.mkv
 
 
 
@@ -244,35 +251,25 @@ https://ia804609.us.archive.org/20/items/silo_20250123/Silo%20S01E09.mp4
 https://ia804609.us.archive.org/20/items/silo_20250123/Silo%20S01E10.mp4
 #SEASON 2
 #EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 01" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="2"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://ia904609.us.archive.org/20/items/silo_20250123/Silo%20S02E01.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 02" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="2"
+https://ia904609.us.archive.org/20/items/silo_20250123/Silo%20S02E02.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 03" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="2"
+https://ia904609.us.archive.org/20/items/silo_20250123/Silo%20S02E03.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 04" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="2"
+https://ia904609.us.archive.org/20/items/silo_20250123/Silo%20S02E04.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 05" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="2"
+https://ia904609.us.archive.org/20/items/silo_20250123/Silo%20S02E05.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 06" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="2"
+https://ia904609.us.archive.org/20/items/silo_20250123/Silo%20S02E06.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 07" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="2"
+https://ia904609.us.archive.org/20/items/silo_20250123/Silo%20S02E07.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 08" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="2"
+https://ia904609.us.archive.org/20/items/silo_20250123/Silo%20S02E08.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 09" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="2"
+https://ia904609.us.archive.org/20/items/silo_20250123/Silo%20S02E09.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | Episode 10" tvg-logo="https://i.ibb.co/hghTX3d/SILO.jpg" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="2"
+https://ia904609.us.archive.org/20/items/silo_20250123/Silo%20S02E10.mkv
 
 
 
