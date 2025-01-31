@@ -65,7 +65,7 @@ https://ia600408.us.archive.org/28/items/estrenos_2.0/Kung%20Fu%20Panda%204%20%2
 
 #NETFLIX
 #EXTINF:0 group-title="NETFLIX" tvg-name="6 Underground (2019)" tvg-logo="https://i.ibb.co/VYyWJnF1/6-Underground-2019.webp" tvg-type="movie", 6 Underground (2019)
-https://ia800606.us.archive.org/26/items/movies_20250123_2146/6%20Underground%20%282019%29.mkv
+https://player.odycdn.com/api/v3/streams/free/6-Underground-(2019)/4e9022814313a2a15757ee8caeb5a2fbd3cc1e59/43da6a.mkv
 
 
 
@@ -117,13 +117,16 @@ https://player.odycdn.com/api/v3/streams/free/Godzilla-(2014)/fefa617aa2f5693950
 #EXTINF:0 group-title="HBO MAX" tvg-name="Venom: El Último Baile (2024)" tvg-logo="https://i.ibb.co/rHLsspg/VENOM-3.png" tvg-type="movie", Venom: El Último Baile (2024)
 https://ia800408.us.archive.org/28/items/estrenos_2.0/Venom%20-%20El%20Ultimo%20Baile%20%282024%29.mkv
 #EXTINF:0 group-title="HBO MAX" tvg-name="2012 (2009)" tvg-logo="https://i.ibb.co/9HKSZMT8/2012.jpg" tvg-type="movie", 2012 (2009)
-https://ia800606.us.archive.org/26/items/movies_20250123_2146/2012%20%282009%29.mp4
+https://player.odycdn.com/api/v3/streams/free/2012-(2009)/862461fc19062a4ae90e02a1dbf496f229243f69/7ccbd2.mp4
 #EXTINF:0 group-title="HBO MAX" tvg-name="Bad Boys Hasta La Muerte (2024)" tvg-logo="https://i.ibb.co/fVr1TSBL/Bad-Boys-4.jpg" tvg-type="movie", Bad Boys Hasta La Muerte (2024)
 https://ia800408.us.archive.org/28/items/estrenos_2.0/Bad%20Boys%20-%20Hasta%20La%20Muerte%20%282024%29.mkv
 #EXTINF:0 group-title="HBO MAX" tvg-name="Sherlock Holmes (2009)" tvg-logo="https://i.ibb.co/k6mk0swq/Sherlock-Holmes-2009.jpg" tvg-type="movie", Sherlock Holmes (2009)
 https://player.odycdn.com/api/v3/streams/free/Sherlock-Holmes-(2009)/a8687c5f8c57a1294ce046d41ccaff8695f2ac53/3d0456.mp4
 #EXTINF:0 group-title="HBO MAX" tvg-name="Sherlock Holmes: Juego De Sombras (2011)" tvg-logo="https://i.ibb.co/ZpR0LryW/Sherlock-Holmes-A-Game-Of-Shadows-2011.jpg" tvg-type="movie", Sherlock Holmes: Juego De Sombras (2011)
 https://player.odycdn.com/api/v3/streams/free/Sherlock-Holmes---A-Game-Of-Shadows-(2011)/c8b5a29aefbe4546d0ba49c800ea195f1be204eb/f6bbc8.mkv
+#EXTINF:0 group-title="HBO MAX" tvg-name="Aquaman Y El Reino Perdido (2023)" tvg-logo="https://i.ibb.co/n8ZfG5R2/Aquaman-2.jpg" tvg-type="movie", Aquaman Y El Reino Perdido (2023)
+https://player.odycdn.com/api/v3/streams/free/Aquaman-Y-El-Reino-Perdido-(2023)/07d05eb3b8746c2bf8f0f63f2635cb23bbb62346/eb882b.mkv
+
 
 
 
