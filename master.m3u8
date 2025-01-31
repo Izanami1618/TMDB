@@ -121,7 +121,7 @@ https://archive.org/download/movies_20250123_2146/2012%20%282009%29.mp4
 #EXTINF:0 group-title="HBO MAX" tvg-name="Bad Boys Hasta La Muerte (2024)" tvg-logo="https://i.ibb.co/fVr1TSBL/Bad-Boys-4.jpg" tvg-type="movie", Bad Boys Hasta La Muerte (2024)
 https://ia800408.us.archive.org/28/items/estrenos_2.0/Bad%20Boys%20-%20Hasta%20La%20Muerte%20%282024%29.mkv
 #EXTINF:0 group-title="HBO MAX" tvg-name="Sherlock Holmes (2009)" tvg-logo="https://i.ibb.co/k6mk0swq/Sherlock-Holmes-2009.jpg" tvg-type="movie", Sherlock Holmes (2009)
-https://archive.org/download/movies_20250123_2146/Sherlock%20Holmes%20%282009%29.ia.mp4
+https://archive.org/download/movies_20250123_2146/Sherlock%20Holmes%20%282009%29.mp4
 #EXTINF:0 group-title="HBO MAX" tvg-name="Sherlock Holmes: Juego De Sombras (2011)" tvg-logo="https://i.ibb.co/ZpR0LryW/Sherlock-Holmes-A-Game-Of-Shadows-2011.jpg" tvg-type="movie", Sherlock Holmes: Juego De Sombras (2011)
 https://ia600606.us.archive.org/26/items/movies_20250123_2146/Sherlock%20Holmes%20-%20A%20Game%20Of%20Shadows%20%282011%29.mkv
 #EXTINF:0 group-title="HBO MAX" tvg-name="Aquaman Y El Reino Perdido (2023)" tvg-logo="https://i.ibb.co/n8ZfG5R2/Aquaman-2.jpg" tvg-type="movie", Aquaman Y El Reino Perdido (2023)
@@ -185,46 +185,6 @@ https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20THE%20L
 https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20RISE%20OF%20THE%20BEAST%20%282023%29.mkv
 #EXTINF:0 group-title="PARAMOUNT +" tvg-name="Gladiador II (2024)" tvg-logo="https://i.ibb.co/d7tYTjg/Gladiador-2.jpg" tvg-type="movie", Gladadior II (2024)
 https://ia902303.us.archive.org/22/items/estrenos-2024/Gladiador%20II%20%282024%29.mkv
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#SAGAS
-#EXTINF:0 group-title="SAGAS" tvg-name="Transformers (2004)" tvg-logo="https://i.ibb.co/C6gbftT/Transformers.jpg" tvg-type="movie", Transformers (2004)
-https://ia802303.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20%282007%29.mkv
-#EXTINF:0 group-title="SAGAS" tvg-name="Transformers: Revenge Of The Fallen (2007)" tvg-logo="https://i.ibb.co/gVZPm3d/Transformers-2.jpg" tvg-type="movie", Transformers: Revenge Of The Fallen (2007)
-https://ia802304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20REVENGE%20OF%20THE%20FALLEN%20%282009%29.mkv
-#EXTINF:0 group-title="SAGAS" tvg-name="Transformers: Dark Of The Moon (2011)" tvg-logo="https://i.ibb.co/N6c1V7s/Transformers-3.jpg" tvg-type="movie", Transformers: Dark Of The Moon (2011)
-https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20DARK%20OF%20THE%20MOON%20%282011%29.mkv
-#EXTINF:0 group-title="SAGAS" tvg-name="Transformers: Age Of Extindtion (2014)" tvg-logo="https://i.ibb.co/ByHzfGJ/Transformers-4.jpg" tvg-type="movie", Transformers: Age Of Extindtion (2014)
-https://ia802304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20AGE%20OF%20EXTINTION%20%282014%29.mkv
-#EXTINF:0 group-title="SAGAS" tvg-name="Transformers: The Last Knight (2017)" tvg-logo="https://i.ibb.co/wrRqbzg/Transformers-5.jpg" tvg-type="movie", Transformers: The Last Knight (2017)
-https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20THE%20LAST%20KNIGHT%20%282017%29.mkv
-#EXTINF:0 group-title="SAGAS" tvg-name="Transformers: Rise Of The Beast (2023)" tvg-logo="https://i.ibb.co/WH3CsKd/Transformers-6.jpg" tvg-type="movie", Transformers: Rise Of The Beast (2023)
-https://ia902304.us.archive.org/13/items/sagas_202501/TRANSFORMERS%20-%20RISE%20OF%20THE%20BEAST%20%282023%29.mkv
-#EXTINF:0 group-title="SAGAS" tvg-name="Transformers: ONE (2024)" tvg-logo="https://i.ibb.co/prvc1QX/Transformers-one.jpg" tvg-type="movie", Transformers: ONE (2024)
-https://ia802303.us.archive.org/22/items/estrenos-2024/TRANSFORMERS%20ONE%20%282024%29.mp4
-#EXTINF:0 group-title="SAGAS" tvg-name="Mi Villano Favorito 4 (2024)" tvg-logo="https://i.ibb.co/C0jtf2x/MVF4.jpg" tvg-type="movie", Mi Villano Favorito 4 (2024)
-https://ia802303.us.archive.org/22/items/estrenos-2024/Mi%20Villano%20Favorito%204%20%282024%29.mp4
-#EXTINF:0 group-title="SAGAS" tvg-name="Sherlock Holmes (2009)" tvg-logo="https://i.ibb.co/k6mk0swq/Sherlock-Holmes-2009.jpg" tvg-type="movie", Sherlock Holmes (2009)
-https://archive.org/download/movies_20250123_2146/Sherlock%20Holmes%20%282009%29.ia.mp4
-#EXTINF:0 group-title="SAGAS" tvg-name="Sherlock Holmes: Juego De Sombras (2011)" tvg-logo="https://i.ibb.co/ZpR0LryW/Sherlock-Holmes-A-Game-Of-Shadows-2011.jpg" tvg-type="movie", Sherlock Holmes: Juego De Sombras (2011)
-https://ia600606.us.archive.org/26/items/movies_20250123_2146/Sherlock%20Holmes%20-%20A%20Game%20Of%20Shadows%20%282011%29.mkv
-#EXTINF:0 group-title="SAGAS" tvg-name="Godzilla Y Kong: El Nuevo Imperio (2024)" tvg-logo="https://i.ibb.co/zVnVg4fq/Godzilla-x-Kong.jpg" tvg-type="movie", Godzilla Y Kong: El Nuevo Imperio (2024)
-https://ia600408.us.archive.org/28/items/estrenos_2.0/Godzilla%20x%20Kong%20%282024%29.mkv
-#EXTINF:0 group-title="SAGAS" tvg-name="Godzilla (2014)" tvg-logo="https://i.ibb.co/TMt3hPdq/Godzilla-cover.png" tvg-type="movie", Godzilla (2014)
-https://player.odycdn.com/api/v3/streams/free/Godzilla-(2014)/fefa617aa2f56939505e74bca5d4ae9437531a67/3e549c.mkv
-
 
 
 
