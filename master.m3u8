@@ -1,7 +1,13 @@
 #EXTM3U
-#MOVIES
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#MOVIES 
+--------
+
 #ESTRENOS 2025
 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #ESTRENOS 2024
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Twisters (2024)" tvg-logo="https://i.ibb.co/21tCv7jX/Twisters.webp" tvg-type="movie", Twisters (2024)
@@ -44,15 +50,22 @@ https://ia800408.us.archive.org/28/items/estrenos_2.0/Bad%20Boys%20-%20Hasta%20L
 https://ia600408.us.archive.org/28/items/estrenos_2.0/Godzilla%20x%20Kong%20%282024%29.mkv
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://i.ibb.co/ZpYdP10v/Kun-Fu-Panda-4.webp" tvg-type="movie", Kung Fu Panda 4 (2024)
 https://ia600408.us.archive.org/28/items/estrenos_2.0/Kung%20Fu%20Panda%204%20%282024%29.mkv
+#EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Inside Out 2 (2024)" tvg-logo="https://i.ibb.co/jPsnNvWH/Inside-Out-2.webp" tvg-type="movie", Twisters (2024)
+https://ia904600.us.archive.org/33/items/disney_20250201_0509/Inside%20Out%20%282015%29.mp4
+#EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Road House (2024)" tvg-logo="https://i.ibb.co/LdrgXSkF/Road-House.webp" tvg-type="movie", Road House (2024)
+https://ia600408.us.archive.org/28/items/estrenos_2.0/Road%20House%20%282024%29.mp4
+#EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Civil War (2024)" tvg-logo="https://i.ibb.co/4gTnNhxS/Civil-War.webp" tvg-type="movie", Civil War (2024)
+https://ia600308.us.archive.org/20/items/TV-channels_202404/Civil%20War%20%282024%29.mp4
+#EXTINF:0 group-title="ESTRENOS 2024" tvg-name="ATLAS (2024)" tvg-logo="https://i.ibb.co/nMZsRDjB/ATLAS.webp" tvg-type="movie", ATLAS (2024)
+https://ia600308.us.archive.org/20/items/TV-channels_202404/ATLAS%20%282024%29.mp4
+#EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Rebel Ridge (2024)" tvg-logo="https://i.ibb.co/XfRqz7nG/Rebel-Ridge.webp" tvg-type="movie", Rebel Ridge (2024)
+https://ia800408.us.archive.org/28/items/estrenos_2.0/Rebel%20Rigde%20%282024%29.mp4
 
 
 
 
 
-
-
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #MOVISTAR +
 #EXTINF:0 group-title="MOVISTAR +" tvg-name="Twisters (2024)" tvg-logo="https://i.ibb.co/21tCv7jX/Twisters.webp" tvg-type="movie", Twisters (2024)
@@ -63,7 +76,7 @@ https://ia802303.us.archive.org/22/items/estrenos-2024/Twisters%20%282024%29.mp4
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #PEACOCK
 #EXTINF:0 group-title="PEACOCK" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://i.ibb.co/ZpYdP10v/Kun-Fu-Panda-4.webp" tvg-type="movie", Kung Fu Panda 4 (2024)
@@ -74,19 +87,22 @@ https://ia600408.us.archive.org/28/items/estrenos_2.0/Kung%20Fu%20Panda%204%20%2
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #NETFLIX
 #EXTINF:0 group-title="NETFLIX" tvg-name="6 Underground (2019)" tvg-logo="https://i.ibb.co/3ym3R5kh/6-Underground-2019.webp" tvg-type="movie", 6 Underground (2019)
 https://ia600606.us.archive.org/26/items/movies_20250123_2146/6%20Underground%20%282019%29.mkv
+#EXTINF:0 group-title="NETFLIX" tvg-name="ATLAS (2024)" tvg-logo="https://i.ibb.co/nMZsRDjB/ATLAS.webp" tvg-type="movie", ATLAS (2024)
+https://ia600308.us.archive.org/20/items/TV-channels_202404/ATLAS%20%282024%29.mp4
+#EXTINF:0 group-title="NETFLIX" tvg-name="Rebel Ridge (2024)" tvg-logo="https://i.ibb.co/XfRqz7nG/Rebel-Ridge.webp" tvg-type="movie", Rebel Ridge (2024)
+https://ia800408.us.archive.org/28/items/estrenos_2.0/Rebel%20Rigde%20%282024%29.mp4
 
 
 
 
 
 
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #PRIME VIDEO
 #EXTINF:0 group-title="PRIME VIDEO" tvg-name="Culpa Tuya (2024)" tvg-logo="https://i.ibb.co/w3XGX27/Culpa-Tuya.webp" tvg-type="movie", Culpa Tuya (2024)
@@ -121,11 +137,19 @@ https://ia600408.us.archive.org/28/items/estrenos_2.0/Godzilla%20x%20Kong%20%282
 https://ia600606.us.archive.org/26/items/movies_20250123_2146/Godzilla%20%282014%29.mkv
 #EXTINF:0 group-title="PRIME VIDEO" tvg-name="Código: Traje Rojo (2024)" tvg-logo="https://i.ibb.co/27G4HsHp/Codigo-Traje-Rojo.webp" tvg-type="movie", Código: Traje Rojo (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/Red%20One.mp4
+#EXTINF:0 group-title="PRIME VIDEO" tvg-name="Road House (2024)" tvg-logo="https://i.ibb.co/LdrgXSkF/Road-House.webp" tvg-type="movie", Road House (2024)
+https://ia600408.us.archive.org/28/items/estrenos_2.0/Road%20House%20%282024%29.mp4
+#EXTINF:0 group-title="PRIME VIDEO" tvg-name="Power Rangers (2017)" tvg-logo="https://i.ibb.co/TBjq2yf6/Power-Rangers.webp" tvg-type="movie", Power Rangers (2017)
+https://ia800308.us.archive.org/20/items/TV-channels_202404/Power%20Rangers%20%282017%29.mp4
 
 
 
 
 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #HBO MAX
 #EXTINF:0 group-title="HBO MAX" tvg-name="Venom: El Último Baile (2024)" tvg-logo="https://i.ibb.co/QFyxkWfG/VENOM-3.webp" tvg-type="movie", Venom: El Último Baile (2024)
@@ -144,13 +168,15 @@ https://ia600606.us.archive.org/26/items/movies_20250123_2146/Aquaman%20Y%20El%2
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #APPLE TV +
 #EXTINF:0 group-title="APPLE TV +" tvg-name="FLOW (2024)" tvg-logo="https://i.ibb.co/FLMLjTgB/Flow.webp" tvg-type="movie", FLOW (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/FLOW%20%282024%29.mp4
 #EXTINF:0 group-title="APPLE TV +" tvg-name="El Señor De Los Anillos - La Guerra De  Los Rohirrim (2024)" tvg-logo="https://i.ibb.co/8vxg2Db/Se-or-de-los-anillos.webp" tvg-type="movie", El Señor De Los Anillos - La Guerra De  Los Rohirrim (2024)
 https://ia902303.us.archive.org/22/items/estrenos-2024/El%20Se%C3%B1or%20De%20Los%20Anillos%20-%20La%20Guerra%20De%20%20Los%20Rohirrim%20%282024%29.mp4
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Civil War (2024)" tvg-logo="https://i.ibb.co/4gTnNhxS/Civil-War.webp" tvg-type="movie", Civil War (2024)
+https://ia600308.us.archive.org/20/items/TV-channels_202404/Civil%20War%20%282024%29.mp4
 
 
 
@@ -162,7 +188,7 @@ https://ia902303.us.archive.org/22/items/estrenos-2024/El%20Se%C3%B1or%20De%20Lo
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #DISNEY +
 #EXTINF:0 group-title="DISNEY +" tvg-name="El Dia Despues De Mañana (2004)" tvg-logo="https://i.ibb.co/PbMJwnQ/El-Dia-Despues-De-Ma-ana.webp" tvg-type="movie", El Dia Despues De Mañana (2004)
@@ -177,12 +203,21 @@ https://ia802303.us.archive.org/22/items/estrenos-2024/Mufasa%20-%20The%20Lion%2
 https://ia802303.us.archive.org/22/items/estrenos-2024/Deadpool%20%26%20Wolverine%20%282024%29.mkv
 #EXTINF:0 group-title="DISNEY +" tvg-name="El Planeta De Los Simios: Nuevo Reino (2024)" tvg-logo="https://i.ibb.co/spCYGkmp/Planeta-de-los-simios-Nuevo-reino.webp" tvg-type="movie", El Planeta De Los Simios: Nuevo Reino (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/El%20Planeta%20De%20Los%20Simios%20-%20Nuevo%20Reino%20%282024%29.mkv
+#EXTINF:0 group-title="DISNEY +" tvg-name="Inside Out (2015)" tvg-logo="https://i.ibb.co/7xQTPZV9/Inside-Out.webp" tvg-type="movie", Twisters (2015)
+https://ia804600.us.archive.org/33/items/disney_20250201_0509/Inside%20Out%202%20%282024%29.mp4
+#EXTINF:0 group-title="DISNEY +" tvg-name="Inside Out 2 (2024)" tvg-logo="https://i.ibb.co/jPsnNvWH/Inside-Out-2.webp" tvg-type="movie", Inside Out 2 (2024)
+https://ia904600.us.archive.org/33/items/disney_20250201_0509/Inside%20Out%20%282015%29.mp4
+#EXTINF:0 group-title="DISNEY +" tvg-name="CARS (2006)" tvg-logo="https://i.ibb.co/DfsQBRfT/CARS.webp" tvg-type="movie", CARS (2006)
+https://ia904501.us.archive.org/2/items/disney_202502/CARS%20%282006%29.mp4
+#EXTINF:0 group-title="DISNEY +" tvg-name="CARS 2 (2011)" tvg-logo="https://i.ibb.co/m5ZnsVQq/CARS-2.webp" tvg-type="movie", CARS 2 (2011)
+https://ia904501.us.archive.org/2/items/disney_202502/CARS%202%20%282011%29.mp4
+#EXTINF:0 group-title="DISNEY +" tvg-name="CARS 3 (2017)" tvg-logo="https://i.ibb.co/gLCgWx0h/CARS-3.webp" tvg-type="movie", CARS 3 (2017)
+https://ia804501.us.archive.org/2/items/disney_202502/CARS%203%20%282017%29.mp4
 
 
 
 
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #PARAMOUNT +
 #EXTINF:0 group-title="PARAMOUNT +" tvg-name="Transformers (2004)" tvg-logo="https://i.ibb.co/9k2n3HNd/Transformers.webp" tvg-type="movie", Transformers (2004)
@@ -206,7 +241,7 @@ https://ia902303.us.archive.org/22/items/estrenos-2024/Gladiador%20II%20%282024%
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #SERIES
 #CBS
@@ -227,7 +262,7 @@ https://ia802207.us.archive.org/0/items/fbi-international_20250120/FBI%20-%20Int
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #PARAMOUNT +
 #OPS: Lioness
@@ -252,33 +287,32 @@ https://ia902207.us.archive.org/23/items/ops-lioness/Ops%20-%20Lioness%20S2E08.m
 
 
 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #NETLIX
 #SQUID GAMES
 #SEASON 1
 #EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | S1 - Episode 01" tvg-logo="https://i.ibb.co/Q3k6DrPL/Squid-Games.webp" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
-
-
+https://ia902303.us.archive.org/4/items/squid-game_20250124/Squid%20Games%20S1E01.mp4
 #EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | S1 - Episode 02" tvg-logo="https://i.ibb.co/Q3k6DrPL/Squid-Games.webp" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
-
-
+https://ia902303.us.archive.org/4/items/squid-game_20250124/Squid%20Games%20S1E02.mp4
 #EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | S1 - Episode 03" tvg-logo="https://i.ibb.co/Q3k6DrPL/Squid-Games.webp" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
-
-
+https://ia902303.us.archive.org/4/items/squid-game_20250124/Squid%20Games%20S1E03.mp4
 #EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | S1 - Episode 04" tvg-logo="https://i.ibb.co/Q3k6DrPL/Squid-Games.webp" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
-
-
+https://ia902303.us.archive.org/4/items/squid-game_20250124/Squid%20Games%20S1E04.mp4
 #EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | S1 - Episode 05" tvg-logo="https://i.ibb.co/Q3k6DrPL/Squid-Games.webp" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
-
-
+https://ia802303.us.archive.org/4/items/squid-game_20250124/Squid%20Games%20S1E05.mp4
 #EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | S1 - Episode 06" tvg-logo="https://i.ibb.co/Q3k6DrPL/Squid-Games.webp" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
-
-
+https://ia802303.us.archive.org/4/items/squid-game_20250124/Squid%20Games%20S1E06.mp4
 #EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | S1 - Episode 07" tvg-logo="https://i.ibb.co/Q3k6DrPL/Squid-Games.webp" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
-
-
+https://ia802303.us.archive.org/4/items/squid-game_20250124/Squid%20Games%20S1E07.mp4
 #EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | S1 - Episode 08" tvg-logo="https://i.ibb.co/Q3k6DrPL/Squid-Games.webp" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
-
-
+https://ia902303.us.archive.org/4/items/squid-game_20250124/Squid%20Games%20S1E08.mp4
+#EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | S1 - Episode 09" tvg-logo="https://i.ibb.co/Q3k6DrPL/Squid-Games.webp" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="1"
+https://ia802303.us.archive.org/4/items/squid-game_20250124/Squid%20Games%20S1E09.mp4
 #SEASON 2
 #EXTINF:0 group-title="NETFLIX" tvg-name="Squid Games | S2 - Episode 01" tvg-logo="https://i.ibb.co/Q3k6DrPL/Squid-Games.webp" serie-title="Squid Games" tvg-type="serie" tvg-serie="Squid Games" tvg-season="2"
 https://ia902303.us.archive.org/4/items/squid-game_20250124/Squid%20Game%20S02E01.mkv
@@ -299,7 +333,7 @@ https://ia902303.us.archive.org/4/items/squid-game_20250124/Squid%20Game%20S02E0
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #APPLE TV +
 #SILO
