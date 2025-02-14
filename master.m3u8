@@ -280,7 +280,7 @@ https://ia804501.us.archive.org/2/items/disney_202502/El%20d%C3%ADa%20despu%C3%A
 https://ia802303.us.archive.org/22/items/estrenos-2024/Mufasa%20-%20The%20Lion%20King%20%282024%29.mp4
 #EXTINF:0 group-title="DISNEY +" tvg-name="El Planeta De Los Simios: Nuevo Reino (2024)" tvg-logo="https://i.ibb.co/spCYGkmp/Planeta-de-los-simios-Nuevo-reino.webp" tvg-type="movie", El Planeta De Los Simios: Nuevo Reino (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/El%20Planeta%20De%20Los%20Simios%20-%20Nuevo%20Reino%20%282024%29.mkv
-#EXTINF:0 group-title="DISNEY +" tvg-name="Percy Jackson Y Los Dioses Del Olimpo - Ladrón Del Rayo (2010)" tvg-logo="https://i.ibb.co/N2WsvpxK/Percy-Jackson.webp" tvg-type="movie", Percy Jackson Y Los Dioses Del Olimpo - Ladrón Del Rayo (2010)
+#EXTINF:0 group-title="DISNEY +" tvg-name="Percy Jackson Y Los Dioses Del Olimpo: Ladrón Del Rayo (2010)" tvg-logo="https://i.ibb.co/N2WsvpxK/Percy-Jackson.webp" tvg-type="movie", Percy Jackson Y Los Dioses Del Olimpo: Ladrón Del Rayo (2010)
 https://ia601409.us.archive.org/10/items/disney.plus2.0/Percy%20Jackson%20Y%20Los%20Dioses%20Del%20Olimpo%20-%20Ladr%C3%B3n%20Del%20Rayo%20%282010%29.mkv
 #EXTINF:0 group-title="DISNEY +" tvg-name="Percy Jackson Y El Mar De Los Monstruos (2013)" tvg-logo="https://i.ibb.co/PGWKrhzZ/Percy-Jackson-2.webp" tvg-type="movie", Percy Jackson Y El Mar De Los Monstruos (2013)
 https://ia601409.us.archive.org/10/items/disney.plus2.0/Percy%20Jackson%20Y%20El%20Mar%20De%20Los%20Monstruos%20%282013%29.mp4
@@ -295,14 +295,13 @@ https://ia904503.us.archive.org/24/items/disneyplus.premium.2.0/Pelotas%20En%20J
 https://ia600104.us.archive.org/26/items/disneyplusmarvel1.0/Spider-Man%20No%20Way%20Home%20%282021%29.mp4
 #EXTINF:0 group-title="DISNEY + | MARVEL" tvg-name="Deadpool & Wolverine (2024)" tvg-logo="https://i.ibb.co/xtMM8Z4m/Deadpool-3.webp" tvg-type="movie", Deadpool & Wolverine (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/Deadpool%20%26%20Wolverine%20%282024%29.mkv
-#EXTINF:0 group-title="DISNEY + | MARVEL" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://i.ibb.co/RGZvxxzC/Spider-Man-No-Way-Home.webp" tvg-type="movie", Spider-Man: No Way Home (2021)
-https://ia600104.us.archive.org/26/items/disneyplusmarvel1.0/Spider-Man%20No%20Way%20Home%20%282021%29.mp4
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #DISNEY + | ANIMATIONS
-#EXTINF:0 group-title="DISNEY + | ANIMATION" tvg-name="Valiente (2012)" tvg-logo="https://i.ibb.co/QvQG4NB6/Valiente.webp" tvg-type="movie", Valiente (2012)
+#EXTINF:0 group-title="DISNEY + | ANIMATION" tvg-name="Brave (2012)" tvg-logo="https://i.ibb.co/QvQG4NB6/Valiente.webp" tvg-type="movie", Brave (2012)
 https://ia800607.us.archive.org/19/items/disneyplusanimacion/Brave%20%282012%29.mkv
 #EXTINF:0 group-title="DISNEY + | ANIMATION" tvg-name="Enredados (2010)" tvg-logo="https://i.ibb.co/M5xfpH5D/Enredados.webp" tvg-type="movie", Enredados (2010)
 https://ia800607.us.archive.org/19/items/disneyplusanimacion/Enredados%20%282010%29.mkv
@@ -324,14 +323,6 @@ https://ia804501.us.archive.org/2/items/disney_202502/CARS%203%20%282017%29.mp4
 https://ia600606.us.archive.org/26/items/movies_20250123_2146/MOANA%20%282016%29.mkv
 #EXTINF:0 group-title="DISNEY + | ANIMATION" tvg-name="Moana 2 (2024)" tvg-logo="https://i.ibb.co/s9dryMjg/Mona-2.webp" tvg-type="movie", Moana 2 (2024)
 https://ia902303.us.archive.org/22/items/estrenos-2024/MOANA%202%20%282024%29.mp4
-#EXTINF:0 group-title="DISNEY + | ANIMATION" tvg-name="Valiente (2012)" tvg-logo="https://i.ibb.co/QvQG4NB6/Valiente.webp" tvg-type="movie", Valiente (2012)
-https://ia800607.us.archive.org/19/items/disneyplusanimacion/Brave%20%282012%29.mkv
-#EXTINF:0 group-title="DISNEY + | ANIMATION" tvg-name="Enredados (2010)" tvg-logo="https://i.ibb.co/M5xfpH5D/Enredados.webp" tvg-type="movie", Enredados (2010)
-https://ia800607.us.archive.org/19/items/disneyplusanimacion/Enredados%20%282010%29.mkv
-#EXTINF:0 group-title="DISNEY + | ANIMATION" tvg-name="Raya Y El Ultimo Dragon (2021)" tvg-logo="https://i.ibb.co/mFBDV5dT/Raya-Y-El-Ultimo-Dragon.webp" tvg-type="movie", Raya Y El Ultimo Dragon (2021)
-https://ia600607.us.archive.org/19/items/disneyplusanimacion/Raya%20Y%20El%20Ultimo%20Dragon%20%282021%29.mp4
-#EXTINF:0 group-title="DISNEY + | ANIMATION" tvg-name="Elemental (2023)" tvg-logo="https://i.ibb.co/ynRmTK5N/Elemental.webp" tvg-type="movie", Elemental (2023)
-https://ia904501.us.archive.org/2/items/disney_202502/Elemental%20%282023%29.mp4
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -363,7 +354,7 @@ https://ia600607.us.archive.org/14/items/hulu.premium_202502/The%20Purge%20%2820
 https://ia800607.us.archive.org/14/items/hulu.premium_202502/The%20Purge%20Anarchy%20%282014%29.mp4
 #EXTINF:0 group-title="HULU" tvg-name="The Purge Election Year (2016)" tvg-logo="https://i.ibb.co/8ntcP3Jv/La-Purga-A-o-De-Eleccion.webp" tvg-type="movie", The Purge Election Year (2016)
 https://ia800607.us.archive.org/14/items/hulu.premium_202502/The%20Purge%20Election%20Year%20%282016%29.mp4
-#EXTINF:0 group-title="HULU" tvg-name="12 Horas Para Sobrevivir El Inicio (2018)" tvg-logo="https://i.ibb.co/Xkvf0NQH/La-Purga-El-Inicio.webp" tvg-type="movie", 12 Horas Para Sobrevivir El Inicio (2018)
+#EXTINF:0 group-title="HULU" tvg-name="The First Purge (2018)" tvg-logo="https://i.ibb.co/Xkvf0NQH/La-Purga-El-Inicio.webp" tvg-type="movie", The First Purge (2018)
 https://ia600607.us.archive.org/14/items/hulu.premium_202502/12%20Horas%20Para%20Sobrevivir%20El%20Inicio%20%282018%29.mp4
 #EXTINF:0 group-title="HULU" tvg-name="La Purga Por Siempre (2021)" tvg-logo="https://i.ibb.co/TqNQ2vHq/La-Purga-Por-Siempre.webp" tvg-type="movie", La Purga Por Siempre (2021)
 https://ia600607.us.archive.org/14/items/hulu.premium_202502/La%20Purga%20Por%20Siempre%20%282021%29.mp4
