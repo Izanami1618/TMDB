@@ -15,7 +15,7 @@ https://ia802303.us.archive.org/22/items/estrenos-2024/Twisters%20%282024%29.mp4
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Culpa Tuya (2024)" tvg-logo="https://i.ibb.co/w3XGX27/Culpa-Tuya.webp" tvg-type="movie", Culpa Tuya (2024)
 https://ia902303.us.archive.org/22/items/estrenos-2024/Culpa%20Tuya.mp4
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="FLOW (2024)" tvg-logo="https://i.ibb.co/FLMLjTgB/Flow.webp" tvg-type="movie", FLOW (2024)
-https://ia802303.us.archive.org/22/items/estrenos-2024/FLOW%20%282024%29.mp4
+https://ia802303.us.archive.org/22/items/estrenos-2024/Flow%20%282024%29.mkv
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Mi Villano Favorito 4 (2024)" tvg-logo="https://i.ibb.co/jZM8m3W1/MVF4.webp" tvg-type="movie", Mi Villano Favorito 4 (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/Mi%20Villano%20Favorito%204%20%282024%29.mp4
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Código: Traje Rojo (2024)" tvg-logo="https://i.ibb.co/27G4HsHp/Codigo-Traje-Rojo.webp" tvg-type="movie", Código: Traje Rojo (2024)
@@ -62,6 +62,8 @@ https://ia600308.us.archive.org/20/items/TV-channels_202404/ATLAS%20%282024%29.m
 https://ia800408.us.archive.org/28/items/estrenos_2.0/Rebel%20Rigde%20%282024%29.mp4
 #EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Haikyu!! La Batalla Del Basurero (2024)" tvg-logo="https://i.ibb.co/1CfVdfQ/Haikyu-La-Batalla-Del-Basurero-2024.webp" tvg-type="movie", Haikyu!! La Batalla Del Basurero (2024)
 https://ia800109.us.archive.org/7/items/crunchyroll_202502/Haikyu%21%21%20La%20Batalla%20Del%20Basurero%20%282024%29.mkv
+#EXTINF:0 group-title="ESTRENOS 2024" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://i.ibb.co/ZpYdP10v/Kun-Fu-Panda-4.webp" tvg-type="movie", Kung Fu Panda 4 (2024)
+https://ia600408.us.archive.org/28/items/estrenos_2.0/Kung%20Fu%20Panda%204%20%282024%29.mkv
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -84,6 +86,7 @@ https://ia600109.us.archive.org/7/items/crunchyroll_202502/5%20Centimeters%20Per
 #EXTINF:0 group-title="CRUNCHYROLL" tvg-name="5 Centimeters per Second (2007)" tvg-logo="https://i.ibb.co/WWddbJrn/5-Centimeters-per-Second-2007.webp" tvg-type="movie", 5 Centimeters per Second (2007)
 https://ia600109.us.archive.org/7/items/crunchyroll_202502/Byousoku%205%20Centimeter%20%282007%29%20%5BFINAL%20VERSION%5D.mp4
 
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #MOVISTAR +
@@ -91,19 +94,21 @@ https://ia600109.us.archive.org/7/items/crunchyroll_202502/Byousoku%205%20Centim
 https://ia802303.us.archive.org/22/items/estrenos-2024/Twisters%20%282024%29.mp4
 
 
-
-
-
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#PEACOCK
-#EXTINF:0 group-title="PEACOCK" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://i.ibb.co/ZpYdP10v/Kun-Fu-Panda-4.webp" tvg-type="movie", Kung Fu Panda 4 (2024)
+#PEACOCK | ANIMATION
+#EXTINF:0 group-title="PEACOCK | ANIMATION" tvg-name="Kung Fu Panda (2008)" tvg-logo="https://i.ibb.co/Cs1wPqrD/KFP1.webp" tvg-type="movie", Kung Fu Panda (2008)
+https://ia600404.us.archive.org/28/items/peacockpremium.01/Kung%20Fu%20Panda%20%282008%29.mkv
+#EXTINF:0 group-title="PEACOCK | ANIMATION" tvg-name="Kung Fu Panda 2 (2011)" tvg-logo="https://i.ibb.co/GQJhw37p/KFP2.webp" tvg-type="movie", Kung Fu Panda 2 (2011)
+https://ia600404.us.archive.org/28/items/peacockpremium.01/Kung%20Fu%20Panda%202%20%282011%29.mkv
+#EXTINF:0 group-title="PEACOCK | ANIMATION" tvg-name="Kung Fu Panda 3 (2016)" tvg-logo="https://i.ibb.co/HLW0qHCg/KFP3.webp" tvg-type="movie", Kung Fu Panda 3 (2016)
+https://ia800404.us.archive.org/28/items/peacockpremium.01/Kung%20Fu%20Panda%203%20%282016%29.mp4
+#EXTINF:0 group-title="PEACOCK | ANIMATION" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://i.ibb.co/ZpYdP10v/Kun-Fu-Panda-4.webp" tvg-type="movie", Kung Fu Panda 4 (2024)
 https://ia600408.us.archive.org/28/items/estrenos_2.0/Kung%20Fu%20Panda%204%20%282024%29.mkv
-
-
-
-
+#EXTINF:0 group-title="PEACOCK | ANIMATION" tvg-name="Gato Con Botas (2011)" tvg-logo="https://i.ibb.co/B5qCXGwP/GCB1.webp" tvg-type="movie", Gato Con Botas (2011)
+https://ia600404.us.archive.org/28/items/peacockpremium.01/Gato%20Con%20Botas%20%282011%29.mkv
+#EXTINF:0 group-title="PEACOCK | ANIMATION" tvg-name="El Gato Con Botas: El Último Deseo (2022)" tvg-logo="https://i.ibb.co/C3Pb0R48/GCB2.webp" tvg-type="movie", El Gato Con Botas: El Último Deseo (2022)
+https://ia600404.us.archive.org/28/items/peacockpremium.01/El%20Gato%20Con%20Botas%20-%20El%20Ultimo%20Deseo%20%282022%29.mkv
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -262,7 +267,7 @@ https://ia601709.us.archive.org/22/items/appletvplus.premium02/Nace%20Una%20Estr
 
 #APPLE TV + | ANIMATION
 #EXTINF:0 group-title="APPLE TV + | ANIMATION" tvg-name="FLOW (2024)" tvg-logo="https://i.ibb.co/FLMLjTgB/Flow.webp" tvg-type="movie", FLOW (2024)
-https://ia802303.us.archive.org/22/items/estrenos-2024/FLOW%20%282024%29.mp4
+https://ia802303.us.archive.org/22/items/estrenos-2024/Flow%20%282024%29.mkv
 #EXTINF:0 group-title="APPLE TV + | ANIMATION" tvg-name="El Señor De Los Anillos - La Guerra De  Los Rohirrim (2024)" tvg-logo="https://i.ibb.co/8vxg2Db/Se-or-de-los-anillos.webp" tvg-type="movie", El Señor De Los Anillos - La Guerra De  Los Rohirrim (2024)
 https://ia902303.us.archive.org/22/items/estrenos-2024/El%20Se%C3%B1or%20De%20Los%20Anillos%20-%20La%20Guerra%20De%20%20Los%20Rohirrim%20%282024%29.mp4
 #EXTINF:0 group-title="APPLE TV + | ANIMATION" tvg-name="Super Mario Bros.: La película (2023)" tvg-logo="https://i.ibb.co/pGgrF9q/Super-Mario-Bros.webp" tvg-type="movie", Super Mario Bros.: La película (2023)
@@ -345,7 +350,7 @@ https://ia902303.us.archive.org/22/items/estrenos-2024/Gladiador%20II%20%282024%
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #HULU
 #EXTINF:0 group-title="HULU" tvg-name="The Purge (2013)" tvg-logo="https://i.ibb.co/jksHpZLp/La-Purga.webp" tvg-type="movie", The Purge (2013)
@@ -363,6 +368,23 @@ https://ia600607.us.archive.org/14/items/hulu.premium_202502/Titanic%20%281997%2
 #EXTINF:0 group-title="HULU" tvg-name="Mentiroso, Mentiroso (1997)" tvg-logo="https://i.ibb.co/Q3jcPMhp/Mentiroso-Mentiroso.webp" tvg-type="movie", Mentiroso, Mentiroso (1997)
 https://ia800607.us.archive.org/14/items/hulu.premium_202502/Mentiroso%2C%20Mentiroso%20%281997%29.mp4
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#HULU | ANIMATION
+#EXTINF:0 group-title="HULU | ANIMATION" tvg-name="Shrek (2001)" tvg-logo="https://i.ibb.co/pvBZhv5X/Sherk.webp" tvg-type="movie", Shrek (2001)  
+https://ia801702.us.archive.org/29/items/hulu.premium.001/Shrek%20%282001%29.mkv
+#EXTINF:0 group-title="HULU | ANIMATION" tvg-name="Shrek 2 (2004)" tvg-logo="https://i.ibb.co/fY2z2tn3/Sherk2.webp" tvg-type="movie", Shrek 2 (2004)  
+https://ia801702.us.archive.org/29/items/hulu.premium.001/Shrek%202%20%282004%29.mkv
+#EXTINF:0 group-title="HULU | ANIMATION" tvg-name="Shrek Tercero (2007)" tvg-logo="https://i.ibb.co/21S2V2Nf/Sherk3.webp" tvg-type="movie", Shrek Tercero (2007)  
+https://ia801702.us.archive.org/29/items/hulu.premium.001/Shrek%20Tercero%20%282007%29.mkv
+#EXTINF:0 group-title="HULU | ANIMATION" tvg-name="Shrek Para Siempre (2010)" tvg-logo="https://i.ibb.co/mVthmW2b/Sherk4.webp" tvg-type="movie", Shrek Para Siempre (2010)  
+https://ia801702.us.archive.org/29/items/hulu.premium.001/Shrek%20Para%20Siempre%20%282010%29.mkv
+#EXTINF:0 group-title="HULU | ANIMATION" tvg-name="Cómo Entrenar A Tu Dragón (2010)" tvg-logo=" " tvg-type="movie", Cómo Entrenar A Tu Dragón (2010)  
+https://ia601702.us.archive.org/29/items/hulu.premium.001/C%C3%B3mo%20Entrenar%20A%20Tu%20Drag%C3%B3n%20%282010%29.mkv  
+#EXTINF:0 group-title="HULU | ANIMATION" tvg-name="Cómo Entrenar A Tu Dragón 2 (2014)" tvg-logo=" " tvg-type="movie", Cómo Entrenar A Tu Dragón 2 (2014)  
+https://ia601702.us.archive.org/29/items/hulu.premium.001/C%C3%B3mo%20Entrenar%20A%20Tu%20Drag%C3%B3n%202%20%282014%29.mkv  
+#EXTINF:0 group-title="HULU | ANIMATION" tvg-name="Cómo Entrenar A Tu Dragón 3 (2019)" tvg-logo=" " tvg-type="movie", Cómo Entrenar A Tu Dragón 3 (2019)  
+https://ia601702.us.archive.org/29/items/hulu.premium.001/C%C3%B3mo%20Entrenar%20A%20Tu%20Drag%C3%B3n%203%20%282019%29.mkv  
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -954,6 +976,23 @@ https://ia600808.us.archive.org/20/items/chicago-p.d.s10s11/Chicago%20P.D.%20S10
 https://ia800808.us.archive.org/20/items/chicago-p.d.s10s11/Chicago%20P.D.%20S10E21.mp4
 #EXTINF:0 group-title="PRIME VIDEO" tvg-name="Chicago P.D. | S10 - Episode 22" tvg-logo="https://i.ibb.co/ZpXNbz4D/Chicago-P-D.webp" serie-title="Chicago P.D." tvg-type="serie" tvg-serie="Chicago P.D." tvg-season="10"
 https://ia800808.us.archive.org/20/items/chicago-p.d.s10s11/Chicago%20P.D.%20S10E22.mp4
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#PRIME VIDEO  | DOCUMENTALS
+#EXTINF:0 group-title="PRIME VIDEO | DOCUMENTALS" tvg-name="Real Madrid: Cómo No Te Voy A Querer | S1 - Episode 1" tvg-logo="https://i.ibb.co/n8gt2KfJ/Real-Madrid-CNTQ.webp" serie-title="Real Madrid: Cómo No Te Voy A Querer" tvg-type="serie" tvg-serie="Real Madrid: Cómo No Te Voy A Querer" tvg-season="1"
+https://ia600108.us.archive.org/15/items/primevideo.documentals.premium.01/Real%20Madrid%20-%20%20C%C3%B3mo%20No%20Te%20Voy%20A%20Querer%20S1E01.ts
+#EXTINF:0 group-title="PRIME VIDEO | DOCUMENTALS" tvg-name="Real Madrid: Cómo No Te Voy A Querer | S1 - Episode 2" tvg-logo="https://i.ibb.co/n8gt2KfJ/Real-Madrid-CNTQ.webp" serie-title="Real Madrid: Cómo No Te Voy A Querer" tvg-type="serie" tvg-serie="Real Madrid: Cómo No Te Voy A Querer" tvg-season="1"
+https://ia600108.us.archive.org/15/items/primevideo.documentals.premium.01/Real%20Madrid%20-%20%20C%C3%B3mo%20No%20Te%20Voy%20A%20Querer%20S1E02.ts
+#EXTINF:0 group-title="PRIME VIDEO | DOCUMENTALS" tvg-name="Real Madrid: Cómo No Te Voy A Querer | S1 - Episode 3" tvg-logo="https://i.ibb.co/n8gt2KfJ/Real-Madrid-CNTQ.webp" serie-title="Real Madrid: Cómo No Te Voy A Querer" tvg-type="serie" tvg-serie="Real Madrid: Cómo No Te Voy A Querer" tvg-season="1"
+https://ia600108.us.archive.org/15/items/primevideo.documentals.premium.01/Real%20Madrid%20-%20%20C%C3%B3mo%20No%20Te%20Voy%20A%20Querer%20S1E03.ts
+#EXTINF:0 group-title="PRIME VIDEO | DOCUMENTALS" tvg-name="Real Madrid: Cómo No Te Voy A Querer | S1 - Episode 4" tvg-logo="https://i.ibb.co/n8gt2KfJ/Real-Madrid-CNTQ.webp" serie-title="Real Madrid: Cómo No Te Voy A Querer" tvg-type="serie" tvg-serie="Real Madrid: Cómo No Te Voy A Querer" tvg-season="1"
+https://ia800108.us.archive.org/15/items/primevideo.documentals.premium.01/Real%20Madrid%20-%20%20C%C3%B3mo%20No%20Te%20Voy%20A%20Querer%20S1E04.ts
+#EXTINF:0 group-title="PRIME VIDEO | DOCUMENTALS" tvg-name="Real Madrid: Cómo No Te Voy A Querer | S1 - Episode 5" tvg-logo="https://i.ibb.co/n8gt2KfJ/Real-Madrid-CNTQ.webp" serie-title="Real Madrid: Cómo No Te Voy A Querer" tvg-type="serie" tvg-serie="Real Madrid: Cómo No Te Voy A Querer" tvg-season="1"
+https://ia600108.us.archive.org/15/items/primevideo.documentals.premium.01/Real%20Madrid%20-%20%20C%C3%B3mo%20No%20Te%20Voy%20A%20Querer%20S1E05.ts
+#EXTINF:0 group-title="PRIME VIDEO | DOCUMENTALS" tvg-name="Real Madrid: Cómo No Te Voy A Querer | S1 - Episode 6" tvg-logo="https://i.ibb.co/n8gt2KfJ/Real-Madrid-CNTQ.webp" serie-title="Real Madrid: Cómo No Te Voy A Querer" tvg-type="serie" tvg-serie="Real Madrid: Cómo No Te Voy A Querer" tvg-season="1"
+https://ia800108.us.archive.org/15/items/primevideo.documentals.premium.01/Real%20Madrid%20-%20%20C%C3%B3mo%20No%20Te%20Voy%20A%20Querer%20S1E06.ts
 
 
 
