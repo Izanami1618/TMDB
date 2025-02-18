@@ -1000,10 +1000,41 @@ https://ia800108.us.archive.org/15/items/primevideo.documentals.premium.01/Real%
 # =====================================
 # ==========       LIVE TV      ==========
 # =====================================
+#EVENTOS
+#EXTINF:-1 tvg-logo="" tvg-name="UCL - EVENT | HD"  group-title="EVENTS", UCL - EVENT | HD
+https://ddy6new.iosplayer.ru/ddy6/premium414/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="UCL - EVENT 2 | HD"  group-title="EVENTS", UCL - EVENT 2 | HD
+https://ddh2new.iosplayer.ru/ddh2/premium2/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="UCL - EVENT 3 | HD"  group-title="EVENTS", UCL - EVENT 3 | HD
+https://ddy6new.iosplayer.ru/ddy6/premium426/mono.m3u8
+
+
+-----------------------------------------------------------------------------------------------------------
+#ENTERTAINMENT
 #EXTINF:-1 tvg-logo="" tvg-name="TELEMUNDO - USA | HD"  group-title="ENTERTAINMENT", TELEMUNDO - USA | HD
 https://windnew.iosplayer.ru/wind/premium131/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="LIFETIME MOVIES - USA | HD"  group-title="ENTERTAINMENT", LIFETIME MOVIES - USA | HD
 https://ddh2new.iosplayer.ru/ddh2/premium389/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="UNIVERS TV - SPA | HD"  group-title="ENTERTAINMENT", UNIVERS TV - SPA | HD
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="TVE INTERNACIONAL - AME | HD"  group-title="ENTERTAINMENT", TVE INTERNACIONAL - AME | HD
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="AZTECA INT. | HD"  group-title="ENTERTAINMENT", AZTECA INT. | HD
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="AZTECA - GUA | HD"  group-title="ENTERTAINMENT", AZTECA - GUA | HD
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="AZTECA - GUA 2 | HD"  group-title="ENTERTAINMENT", AZTECA - GUA 2 | HD
+https://ch2-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="Caracol | HD"  group-title="ENTERTAINMENT", Caracol | HD
+https://stream.gia.tv/giatv/giatv-GaryCanalGaryCanal/GaryCanalGaryCanal/playlist.m3u8
+
+
+
+---------------------------------------------------------------------------------------------------------
+#NOVELAS
+#EXTINF:-1 tvg-logo="" tvg-name="RCN MAS - ARG | HD"  group-title="NOVELAS", RCN MAS - ARG | HD
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
 
 ------------------------------------------------------------------------------------------------------
 
@@ -1020,6 +1051,8 @@ https://wikinew.iosplayer.ru/wiki/ustvnationalgeographic/mono.m3u8
 #SPORTS
 #EXTINF:-1 tvg-logo="" tvg-name="M. LA LIGA | HD"  group-title="SPORTS", M. LA LIGA | HD
 https://windnew.iosplayer.ru/wind/premium84/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="M. LA LIGA DE CAMPEONES | HD"  group-title="SPORTS", M. LA LIGA DE CAMPEONES | HD
+https://ddh2new.iosplayer.ru/ddh2/premium4/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="LA LIGA - UK | HD"  group-title="SPORTS", LA LIGA - UK | HD
 https://windnew.iosplayer.ru/wind/premium276/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="ESPN DEPORTES | HD"  group-title="SPORTS", ESPN DEPORTES | HD
@@ -1058,22 +1091,21 @@ https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8
 https://dokko1new.iosplayer.ru/dokko1/premium538/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="TNT - UK | HD"  group-title="SPORTS", TNT - UK | HD
 https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
-
-
+#EXTINF:-1 tvg-logo="" tvg-name="REAL MADRID TV | HD"  group-title="SPORTS", REAL MADRID TV | HD
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 --------------------------------------------------------------------------------------------------------
 
 #NEWS
 #EXTINF:-1 tvg-logo="" tvg-name="RT | HD"  group-title="NEWS", RT | HD
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="" tvg-name="TELESUR | HD"  group-title="NEWS", TELESUR | HD
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 --------------------------------------------------------------------------------------------------------
 #CULTURE
 #EXTINF:-1 tvg-logo="" tvg-name="HISTORY CHANNEL - USA | HD"  group-title="CULTURE", HISTORY CHANNEL- USA | HD
 https://wikinew.iosplayer.ru/wiki/ustvhistory/mono.m3u8
-
 
 
 
