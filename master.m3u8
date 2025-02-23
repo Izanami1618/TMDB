@@ -92,6 +92,8 @@ https://ia600109.us.archive.org/7/items/crunchyroll_202502/Byousoku%205%20Centim
 #MOVISTAR +
 #EXTINF:0 group-title="MOVISTAR +" tvg-name="Twisters (2024)" tvg-logo="https://i.ibb.co/21tCv7jX/Twisters.webp" tvg-type="movie", Twisters (2024)
 https://ia802303.us.archive.org/22/items/estrenos-2024/Twisters%20%282024%29.mp4
+#EXTINF:0 group-title="MOVISTAR +" tvg-name="La Leyenda De Hércules (2014)" tvg-logo="https://i.ibb.co/Ng5FBzx1/La-leyenda-de-H-rcules-2014.webp" tvg-type="movie", La Leyenda De Hércules (2014)
+https://ia801407.us.archive.org/25/items/movistar.plus.premium.01/La%20Leyenda%20De%20H%C3%A9rcules%20%282014%29.mkv
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -124,6 +126,10 @@ https://ia800408.us.archive.org/28/items/estrenos_2.0/Rebel%20Rigde%20%282024%29
 https://ia802306.us.archive.org/6/items/netflix.premium_202502/13 Horas - Los Soldados Secretos De Bengasi %282016%29.mp4
 #EXTINF:0 group-title="NETFLIX" tvg-name="Big Fat Liar (2002)" tvg-logo="https://i.ibb.co/GQqs0y8K/Gran-Mentiroso.webp" tvg-type="movie", Big Fat Liar (2002)
 https://ia600405.us.archive.org/0/items/netflix.premium2.0_202502/Big%20Fat%20Liar%20%282002%29.mkv
+#EXTINF:0 group-title="NETFLIX" tvg-name="Titanes Del Pacífico (2013)" tvg-logo="https://i.ibb.co/qtxkpSq/Pacific-Rim.webp" tvg-type="movie", Titanes Del Pacífico (2013)
+https://ia600405.us.archive.org/0/items/netflix.premium2.0_202502/Titanes%20Del%20Pac%C3%ADfico%20%282013%29.mp4
+#EXTINF:0 group-title="NETFLIX" tvg-name="Titanes Del Pacífico: La Insurrección (2018)" tvg-logo="https://i.ibb.co/wr8FB5Tz/Pacific-Rim-2.webp" tvg-type="movie", Titanes Del Pacífico: La Insurrección (2018)
+https://ia600405.us.archive.org/0/items/netflix.premium2.0_202502/Titanes%20Del%20Pac%C3%ADfico%20La%20Insurrecci%C3%B3n%20%282018%29.mp4
 
 
 
@@ -176,6 +182,16 @@ https://ia800108.us.archive.org/2/items/primevideo.premium10/Hazme%20El%20Favor%
 https://ia800108.us.archive.org/2/items/primevideo.premium10/Luna%20De%20Miel%20En%20Familia%20%282014%29.mp4
 #EXTINF:0 group-title="PRIME VIDEO" tvg-name="Una Esposa De Mentira (2011)" tvg-logo="https://i.ibb.co/0jgmhhmX/Una-Esposa-De-Mentira.webp" tvg-type="movie", Una Esposa De Mentira (2011)
 https://ia600108.us.archive.org/2/items/primevideo.premium10/Una%20Esposa%20De%20Mentira%20%282011%29.mkv
+#EXTINF:0 group-title="PRIME VIDEO" tvg-name="After (2019)" tvg-logo="https://i.ibb.co/NgZdRnVs/After1.webp" tvg-type="movie", After (2019)
+https://ia800108.us.archive.org/2/items/primevideo.premium10/After%20Aqu%C3%AD%20Empieza%20Todo%20%282019%29.mkv
+#EXTINF:0 group-title="PRIME VIDEO" tvg-name="After: En Mil Pedazos (2020)" tvg-logo="https://i.ibb.co/Q3jRpS33/After2.webp" tvg-type="movie", After: En Mil Pedazos (2020)
+https://ia800108.us.archive.org/2/items/primevideo.premium10/After%20En%20Mil%20Pedazos%20%282020%29.mkv
+#EXTINF:0 group-title="PRIME VIDEO" tvg-name="After: Almas Perdidas (2021)" tvg-logo="https://i.ibb.co/0Rr3GPwb/After3.webp" tvg-type="movie", After: Almas Perdidas (2021)
+https://ia600108.us.archive.org/2/items/primevideo.premium10/After%20Almas%20Perdidas%20%282021%29.mkv
+#EXTINF:0 group-title="PRIME VIDEO" tvg-name="After: Amor Infinito (2022)" tvg-logo="https://i.ibb.co/S7rr4yb2/After4.webp" tvg-type="movie", After: Amor Infinito (2022)
+https://ia800108.us.archive.org/2/items/primevideo.premium10/After%20Amor%20Infinito%20%282022%29.mkv
+#EXTINF:0 group-title="PRIME VIDEO" tvg-name="After: Para Siempre (2023)" tvg-logo="https://i.ibb.co/mr5XjBhd/After5.webp" tvg-type="movie", After: Para Siempre (2023)
+https://ia800108.us.archive.org/2/items/primevideo.premium10/After%20Para%20Siempre%20%282023%29.mkv
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
