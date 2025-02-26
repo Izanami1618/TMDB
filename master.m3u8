@@ -133,7 +133,7 @@ https://ia600405.us.archive.org/0/items/netflix.premium2.0_202502/Titanes%20Del%
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #NETFLIX | ANIMATION
 #EXTINF:0 group-title="NETFLIX | ANIMATION" tvg-name="Sing: ¡Ven Y Canta! (2016)" tvg-logo="https://i.ibb.co/qM5vMyKq/Sing.webp" tvg-type="movie", Sing: ¡Ven Y Canta! (2016)
@@ -194,7 +194,7 @@ https://ia800108.us.archive.org/2/items/primevideo.premium10/After%20Amor%20Infi
 https://ia800108.us.archive.org/2/items/primevideo.premium10/After%20Para%20Siempre%20%282023%29.mkv
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #PRIME VIDEO | ANIMATION
 #EXTINF:0 group-title="PRIME VIDEO | ANIMATION" tvg-name="Mi Villano Favorito 4 (2024)" tvg-logo="https://i.ibb.co/jZM8m3W1/MVF4.webp" tvg-type="movie", Mi Villano Favorito 4 (2024)
@@ -279,7 +279,7 @@ https://ia601709.us.archive.org/22/items/appletvplus.premium02/Nace%20Una%20Estr
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #APPLE TV + | ANIMATION
 #EXTINF:0 group-title="APPLE TV + | ANIMATION" tvg-name="FLOW (2024)" tvg-logo="https://i.ibb.co/FLMLjTgB/Flow.webp" tvg-type="movie", FLOW (2024)
@@ -309,7 +309,7 @@ https://ia601409.us.archive.org/10/items/disney.plus2.0/Percy%20Jackson%20Y%20El
 https://ia904503.us.archive.org/24/items/disneyplus.premium.2.0/Pelotas%20En%20Juego%20%282004%29.mkv
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #DISNEY + | MARVEL
 #EXTINF:0 group-title="DISNEY + | MARVEL" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://i.ibb.co/RGZvxxzC/Spider-Man-No-Way-Home.webp" tvg-type="movie", Spider-Man: No Way Home (2021)
@@ -319,7 +319,7 @@ https://ia802303.us.archive.org/22/items/estrenos-2024/Deadpool%20%26%20Wolverin
 
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #DISNEY + | ANIMATIONS
 #EXTINF:0 group-title="DISNEY + | ANIMATION" tvg-name="Brave (2012)" tvg-logo="https://i.ibb.co/QvQG4NB6/Valiente.webp" tvg-type="movie", Brave (2012)
@@ -994,7 +994,7 @@ https://ia800808.us.archive.org/20/items/chicago-p.d.s10s11/Chicago%20P.D.%20S10
 https://ia800808.us.archive.org/20/items/chicago-p.d.s10s11/Chicago%20P.D.%20S10E22.mp4
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #PRIME VIDEO  | DOCUMENTALS
 #REAL MADRID: COMO NO TE VOY A QUERER
@@ -1014,7 +1014,7 @@ https://ia800108.us.archive.org/15/items/primevideo.documentals.premium.01/Real%
 
 
 # =====================================
-# ==========       LIVE TV      ==========
+# ==========       LIVE TV      =======
 # =====================================
 #EVENTOS
 #EXTINF:-1 tvg-logo="" tvg-name="UCL - EVENT | HD"  group-title="EVENTS", UCL - EVENT | HD
@@ -1028,9 +1028,9 @@ https://ddy6new.iosplayer.ru/ddy6/premium426/mono.m3u8
 -----------------------------------------------------------------------------------------------------------
 #ENTERTAINMENT
 #EXTINF:-1 tvg-logo="" tvg-name="TELEMUNDO - USA | HD"  group-title="ENTERTAINMENT", TELEMUNDO - USA | HD
-https://windnew.iosplayer.ru/wind/premium131/mono.m3u8
+https://tvpass.org/live/TelemundoEast/hd
 #EXTINF:-1 tvg-logo="" tvg-name="LIFETIME MOVIES - USA | HD"  group-title="ENTERTAINMENT", LIFETIME MOVIES - USA | HD
-https://ddh2new.iosplayer.ru/ddh2/premium389/mono.m3u8
+https://tvpass.org/live/LifetimeEast/hd
 #EXTINF:-1 tvg-logo="" tvg-name="UNIVERS TV - SPA | HD"  group-title="ENTERTAINMENT", UNIVERS TV - SPA | HD
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="TVE INTERNACIONAL - AME | HD"  group-title="ENTERTAINMENT", TVE INTERNACIONAL - AME | HD
@@ -1043,7 +1043,24 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="Caracol | HD"  group-title="ENTERTAINMENT", Caracol | HD
 https://stream.gia.tv/giatv/giatv-GaryCanalGaryCanal/GaryCanalGaryCanal/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="" tvg-name="A&E - USA | HD"  group-title="ENTERTAINMENT", A&E - USA | HD
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 tvg-logo="" tvg-name="ABC (KABC) Los Angeles | HD"  group-title="ENTERTAINMENT", ABC (KABC) Los Angeles | HD
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+#EXTINF:-1 tvg-logo="" tvg-name="ABC (WABC) New York | HD"  group-title="ENTERTAINMENT", ABC (WABC) New York | HD
+https://tvpass.org/live/WABCDT1/sd
+#EXTINF:-1 tvg-logo="" tvg-name="ACC Network - USA | HD"  group-title="ENTERTAINMENT", ACC Network - USA | HD
+https://tvpass.org/live/ACCNetwork/hd
+#EXTINF:-1 tvg-logo="" tvg-name="AMC - USA | HD"  group-title="ENTERTAINMENT", AMC - USA | HD
+https://tvpass.org/live/AMCEast/hd
+#EXTINF:-1 tvg-logo="" tvg-name="American Heroes - USA | HD"  group-title="ENTERTAINMENT", American Heroes - USA | HD
+https://tvpass.org/live/AmericanHeroesChannel/hd
+#EXTINF:-1 tvg-logo="" tvg-name="BBC America - USA | HD"  group-title="ENTERTAINMENT", BBC America - USA | HD
+https://tvpass.org/live/BBCAmericaEast/hd
+#EXTINF:-1 tvg-logo="" tvg-name="CBS (KCBS) Los Angeles - USA | HD"  group-title="ENTERTAINMENT", CBS (KCBS) Los Angeles - USA | HD
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+#EXTINF:-1 tvg-logo="" tvg-name="CBS (WCBS) New York - USA | HD"  group-title="ENTERTAINMENT", CBS (WCBS) New York - USA | HD
+https://tvpass.org/live/WCBSDT1/hd
 
 
 ---------------------------------------------------------------------------------------------------------
@@ -1072,7 +1089,7 @@ https://ddh2new.iosplayer.ru/ddh2/premium4/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="LA LIGA - UK | HD"  group-title="SPORTS", LA LIGA - UK | HD
 https://windnew.iosplayer.ru/wind/premium276/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="ESPN DEPORTES | HD"  group-title="SPORTS", ESPN DEPORTES | HD
-https://ddh2new.iosplayer.ru/ddh2/premium375/mono.m3u8
+https://tvpass.org/live/espn-deportes/hd
 #EXTINF:-1 tvg-logo="" tvg-name="ESPN - ARG | HD"  group-title="SPORTS", ESPN - ARG | HD
 https://ddy6new.iosplayer.ru/ddy6/premium149/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="WIN SPORTS + | HD"  group-title="SPORTS", WIN SPORTS + | HD
@@ -1084,13 +1101,13 @@ https://ddy6new.iosplayer.ru/ddy6/premium746/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="BTN - USA | HD"  group-title="SPORTS", BTN - USA | HD
 https://windnew.iosplayer.ru/wind/premium397/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="ESPN - USA | HD"  group-title="SPORTS", ESPN - USA | HD
-https://ddh2new.iosplayer.ru/ddh2/premium44/mono.m3u8
+https://tvpass.org/live/ESPN/hd
 #EXTINF:-1 tvg-logo="" tvg-name="ESPN 2 - USA | HD"  group-title="SPORTS", ESPN 2 - USA | HD
-https://windnew.iosplayer.ru/wind/premium45/mono.m3u8
+https://tvpass.org/live/ESPN2/hd
 #EXTINF:-1 tvg-logo="" tvg-name="TSN - USA | HD"  group-title="SPORTS", TSN - USA | HD
-https://zekonew.iosplayer.ru/zeko/premium112/mono.m3u8
+https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-logo="" tvg-name="truTV - USA | HD"  group-title="SPORTS", truTV - USA | HD
-https://dokko1new.iosplayer.ru/dokko1/premium341/mono.m3u8
+https://tvpass.org/live/truTVEast/hd
 #EXTINF:-1 tvg-logo="" tvg-name="BEIN SPORTS | HD"  group-title="SPORTS", BEIN SPORTS | HD
 https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="BEIN SPORTS SPA | HD"  group-title="SPORTS", BEIN SPORTS SPA | HD
@@ -1103,12 +1120,19 @@ https://ddy6new.iosplayer.ru/ddy6/premium149/mono.m3u8
 https://windnew.iosplayer.ru/wind/premium387/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="CBS SPORT GOLAZO - USA | HD"  group-title="SPORTS", CBS SPORT GOLAZO - USA | HD
 https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="CBS Sports Network - USA | HD"  group-title="SPORTS", CBS Sports Network - USA 
+https://tvpass.org/live/CBSSportsNetworkUSA/hd
 #EXTINF:-1 tvg-logo="" tvg-name="DAZN LA LIGA | HD"  group-title="SPORTS", DAZN LA LIGA | HD
 https://dokko1new.iosplayer.ru/dokko1/premium538/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="TNT - UK | HD"  group-title="SPORTS", TNT - UK | HD
 https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="REAL MADRID TV | HD"  group-title="SPORTS", REAL MADRID TV | HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+
+
+
+
 
 --------------------------------------------------------------------------------------------------------
 
@@ -1117,19 +1141,24 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="TELESUR | HD"  group-title="NEWS", TELESUR | HD
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="BBC News | HD"  group-title="NEWS", BBC News | HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
+
+
 
 --------------------------------------------------------------------------------------------------------
 #CULTURE
 #EXTINF:-1 tvg-logo="" tvg-name="HISTORY CHANNEL - USA | HD"  group-title="CULTURE", HISTORY CHANNEL- USA | HD
 https://wikinew.iosplayer.ru/wiki/ustvhistory/mono.m3u8
+EXTINF:-1 tvg-logo="" tvg-name="Animal Planet - USA | HD"  group-title="CULTURE", Animal Planet- USA | HD
+https://tvpass.org/live/AnimalPlanetEast/hd
+EXTINF:-1 tvg-logo="" tvg-name="Animal Planet - USA | HD"  group-title="CULTURE", HISTORY CHANNEL- USA | HD
 
+EXTINF:-1 tvg-logo="" tvg-name="HISTORY CHANNEL - USA | HD"  group-title="CULTURE", HISTORY CHANNEL- USA | HD
 
+EXTINF:-1 tvg-logo="" tvg-name="HISTORY CHANNEL - USA | HD"  group-title="CULTURE", HISTORY CHANNEL- USA | HD
 
-
-
-
-
-
+EXTINF:-1 tvg-logo="" tvg-name="HISTORY CHANNEL - USA | HD"  group-title="CULTURE", HISTORY CHANNEL- USA | HD
 
 
 
