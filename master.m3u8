@@ -115,6 +115,21 @@ https://ia600404.us.archive.org/28/items/peacockpremium.01/El%20Gato%20Con%20Bot
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#PEACOCK
+#EXTINF:0 group-title="PEACOCK" tvg-name="August Rush: Escucha Tu Destino (2007)" tvg-logo="https://i.postimg.cc/hG1x42rf/August-Rush-Escucha-Tu-Destino-2007.webp" tvg-type="movie", August Rush: Escucha Tu Destino (2007)
+https://ia600602.us.archive.org/18/items/peacock.premium.0010/August%20Rush%20Escucha%20Tu%20Destino%20%282007%29.mkv
+#EXTINF:0 group-title="PEACOCK" tvg-name="La Brújula Dorada (2007)" tvg-logo="https://i.postimg.cc/ZRYNW67j/La-Br-jula-Dorada-2007.webp" tvg-type="movie", La Brújula Dorada (2007)
+https://ia800602.us.archive.org/18/items/peacock.premium.0010/La%20Br%C3%BAjula%20Dorada%20%282007%29.mkv
+#EXTINF:0 group-title="PEACOCK" tvg-name="Una Pareja Explosiva (1998)" tvg-logo="https://i.postimg.cc/zDchfbnS/Una-Pareja-Explosiva-1998.webp" tvg-type="movie", Una Pareja Explosiva (1998)
+https://ia800602.us.archive.org/18/items/peacock.premium.0010/Una%20Pareja%20Explosiva%20%281998%29.mkv
+#EXTINF:0 group-title="PEACOCK" tvg-name="Una Pareja Explosiva 2 (2001)" tvg-logo="https://i.postimg.cc/wTRmRq2K/Una-Pareja-Explosiva-2-2001.webp" tvg-type="movie", Una Pareja Explosiva 2 (2001)
+https://ia600602.us.archive.org/18/items/peacock.premium.0010/Una%20Pareja%20Explosiva%202%20%282001%29.mkv
+#EXTINF:0 group-title="PEACOCK" tvg-name="Una Pareja Explosiva 3 (2007)" tvg-logo="https://i.postimg.cc/rw6tSBZD/Una-Pareja-Explosiva-3-2007.webp" tvg-type="movie", Una Pareja Explosiva 3 (2007)
+https://ia800602.us.archive.org/18/items/peacock.premium.0010/Una%20Pareja%20Explosiva%203%20%282007%29.mkv
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #NETFLIX
 #EXTINF:0 group-title="NETFLIX" tvg-name="6 Underground (2019)" tvg-logo="https://i.ibb.co/3ym3R5kh/6-Underground-2019.webp" tvg-type="movie", 6 Underground (2019)
 https://ia600606.us.archive.org/26/items/movies_20250123_2146/6%20Underground%20%282019%29.mkv
@@ -257,6 +272,15 @@ https://ia803200.us.archive.org/23/items/hbomax.premium2.0/Con%20Todos%20Menos%2
 
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#HBO MAX | DC COMICS
+#EXTINF:0 group-title="HBO MAX | DC COMICS" tvg-name="Zack Snyder's Justice League (2021)" tvg-logo="https://i.postimg.cc/QdpKSfv0/Zack-Snyder-s-Justice-League-2021.webp" tvg-type="movie", Zack Snyder's Justice League (2021)
+https://ia903200.us.archive.org/23/items/hbomax.premium2.0/Zack%20Snyder%27s%20Justice%20League%20%282021%29.mp4
+
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #APPLE TV +
@@ -276,6 +300,10 @@ https://ia600107.us.archive.org/10/items/appletvplus_202502/Moonfall%20%282022%2
 https://ia600107.us.archive.org/10/items/appletvplus_202502/Need%20For%20Speed%20%282014%29.mp4
 #EXTINF:0 group-title="APPLE TV +" tvg-name="Nace Una Estrella (2018)" tvg-logo="https://i.ibb.co/4ZVTGfsH/Nace-Una-Estrella.webp" tvg-type="movie", Nace Una Estrella (2018)
 https://ia601709.us.archive.org/22/items/appletvplus.premium02/Nace%20Una%20Estrella%20%282018%29.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="El Abismo Secreto (2025)" tvg-logo="https://i.postimg.cc/cCRvxmwF/El-Abismo-Secreto-2025.webp" tvg-type="movie", El Abismo Secreto (2025)
+https://ia801709.us.archive.org/22/items/appletvplus.premium02/El%20Abismo%20Secreto%20%282025%29.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Monster Hunter: La Cacería Comienza (2020)" tvg-logo="https://i.postimg.cc/k4jbKDLC/Monster-Hunter-La-Cacer-a-Comienza-2020.webp" tvg-type="movie", Monster Hunter: La Cacería Comienza (2020)
+https://ia801709.us.archive.org/22/items/appletvplus.premium02/Monster%20Hunter%20La%20Cacer%C3%ADa%20Comienza%20%282020%29.mkv
 
 
 
@@ -344,6 +372,9 @@ https://ia804501.us.archive.org/2/items/disney_202502/CARS%203%20%282017%29.mp4
 https://ia600606.us.archive.org/26/items/movies_20250123_2146/MOANA%20%282016%29.mkv
 #EXTINF:0 group-title="DISNEY + | ANIMATION" tvg-name="Moana 2 (2024)" tvg-logo="https://i.ibb.co/s9dryMjg/Mona-2.webp" tvg-type="movie", Moana 2 (2024)
 https://ia902303.us.archive.org/22/items/estrenos-2024/MOANA%202%20%282024%29.mp4
+#EXTINF:0 group-title="DISNEY + | ANIMATION" tvg-name="Monsters University (2013)" tvg-logo="https://i.postimg.cc/MHvjDq8Q/Monstruos-University-2013.webp" tvg-type="movie", Monsters University (2013)
+https://ia904503.us.archive.org/24/items/disneyplus.premium.2.0/Monsters%20University%20%282013%29.mp4
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -383,6 +414,11 @@ https://ia600607.us.archive.org/14/items/hulu.premium_202502/La%20Purga%20Por%20
 https://ia600607.us.archive.org/14/items/hulu.premium_202502/Titanic%20%281997%29.mkv
 #EXTINF:0 group-title="HULU" tvg-name="Mentiroso, Mentiroso (1997)" tvg-logo="https://i.ibb.co/Q3jcPMhp/Mentiroso-Mentiroso.webp" tvg-type="movie", Mentiroso, Mentiroso (1997)
 https://ia800607.us.archive.org/14/items/hulu.premium_202502/Mentiroso%2C%20Mentiroso%20%281997%29.mp4
+#EXTINF:0 group-title="HULU" tvg-name="Un Monstruo Viene A Verme (2016)" tvg-logo="https://i.postimg.cc/fypSqpwg/Un-Monstruo-Viene-A-Verme-2016.webp" tvg-type="movie", Un Monstruo Viene A Verme (2016)
+https://ia600607.us.archive.org/14/items/hulu.premium_202502/Un%20Monstruo%20Viene%20A%20Verme%20%282016%29.mp4
+#EXTINF:0 group-title="HULU" tvg-name="Colossal (2016)" tvg-logo="https://i.postimg.cc/CKgkV3b3/Colossal-2016.webp" tvg-type="movie", Colossal (2016)
+https://ia800607.us.archive.org/14/items/hulu.premium_202502/Colossal%20%282016%29.mkv
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -549,8 +585,29 @@ https://ia904609.us.archive.org/20/items/silo_20250123/Silo%20S02E09.mkv
 #EXTINF:0 group-title="APPLE TV +" tvg-name="SILO | S2 - Episode 10" tvg-logo="https://i.ibb.co/rRxxDKTR/SILO-S2.webp" serie-title="SILO" tvg-type="serie" tvg-serie="SILO" tvg-season="2"
 https://ia904609.us.archive.org/20/items/silo_20250123/Silo%20S02E10.mkv
 
+-------------------------------------------------------------------------
 
-
+#MONARCH: EL LEGADO DE LOS MONSTRUOS - SEASON 1
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Monarch: El Legado De Los Monstruos | S1 - Episode 1" tvg-logo="https://i.postimg.cc/9MpQST86/Monarch-El-Legado-de-los-Monstruos-S1.webp" serie-title="Monarch: El Legado De Los Monstruos" tvg-type="serie" tvg-serie="Monarch: El Legado De Los Monstruos" tvg-season="1", Monarch: El Legado De Los Monstruos | S1 - Episode 1
+https://ia600108.us.archive.org/28/items/apple.tv.plus.series.premium.01/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1E01.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Monarch: El Legado De Los Monstruos | S1 - Episode 2" tvg-logo="https://i.postimg.cc/9MpQST86/Monarch-El-Legado-de-los-Monstruos-S1.webp" serie-title="Monarch: El Legado De Los Monstruos" tvg-type="serie" tvg-serie="Monarch: El Legado De Los Monstruos" tvg-season="1", Monarch: El Legado De Los Monstruos | S1 - Episode 2
+https://ia600108.us.archive.org/28/items/apple.tv.plus.series.premium.01/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1E02.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Monarch: El Legado De Los Monstruos | S1 - Episode 3" tvg-logo="https://i.postimg.cc/9MpQST86/Monarch-El-Legado-de-los-Monstruos-S1.webp" serie-title="Monarch: El Legado De Los Monstruos" tvg-type="serie" tvg-serie="Monarch: El Legado De Los Monstruos" tvg-season="1", Monarch: El Legado De Los Monstruos | S1 - Episode 3
+https://ia600108.us.archive.org/28/items/apple.tv.plus.series.premium.01/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1E03.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Monarch: El Legado De Los Monstruos | S1 - Episode 4" tvg-logo="https://i.postimg.cc/9MpQST86/Monarch-El-Legado-de-los-Monstruos-S1.webp" serie-title="Monarch: El Legado De Los Monstruos" tvg-type="serie" tvg-serie="Monarch: El Legado De Los Monstruos" tvg-season="1", Monarch: El Legado De Los Monstruos | S1 - Episode 4
+https://ia600108.us.archive.org/28/items/apple.tv.plus.series.premium.01/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1E04.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Monarch: El Legado De Los Monstruos | S1 - Episode 5" tvg-logo="https://i.postimg.cc/9MpQST86/Monarch-El-Legado-de-los-Monstruos-S1.webp" serie-title="Monarch: El Legado De Los Monstruos" tvg-type="serie" tvg-serie="Monarch: El Legado De Los Monstruos" tvg-season="1", Monarch: El Legado De Los Monstruos | S1 - Episode 5
+https://ia600108.us.archive.org/28/items/apple.tv.plus.series.premium.01/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1E05.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Monarch: El Legado De Los Monstruos | S1 - Episode 6" tvg-logo="https://i.postimg.cc/9MpQST86/Monarch-El-Legado-de-los-Monstruos-S1.webp" serie-title="Monarch: El Legado De Los Monstruos" tvg-type="serie" tvg-serie="Monarch: El Legado De Los Monstruos" tvg-season="1", Monarch: El Legado De Los Monstruos | S1 - Episode 6
+https://ia600108.us.archive.org/28/items/apple.tv.plus.series.premium.01/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1E06.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Monarch: El Legado De Los Monstruos | S1 - Episode 7" tvg-logo="https://i.postimg.cc/9MpQST86/Monarch-El-Legado-de-los-Monstruos-S1.webp" serie-title="Monarch: El Legado De Los Monstruos" tvg-type="serie" tvg-serie="Monarch: El Legado De Los Monstruos" tvg-season="1", Monarch: El Legado De Los Monstruos | S1 - Episode 7
+https://ia600108.us.archive.org/28/items/apple.tv.plus.series.premium.01/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1E07.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Monarch: El Legado De Los Monstruos | S1 - Episode 8" tvg-logo="https://i.postimg.cc/9MpQST86/Monarch-El-Legado-de-los-Monstruos-S1.webp" serie-title="Monarch: El Legado De Los Monstruos" tvg-type="serie" tvg-serie="Monarch: El Legado De Los Monstruos" tvg-season="1", Monarch: El Legado De Los Monstruos | S1 - Episode 8
+https://ia600108.us.archive.org/28/items/apple.tv.plus.series.premium.01/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1E08.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Monarch: El Legado De Los Monstruos | S1 - Episode 9" tvg-logo="https://i.postimg.cc/9MpQST86/Monarch-El-Legado-de-los-Monstruos-S1.webp" serie-title="Monarch: El Legado De Los Monstruos" tvg-type="serie" tvg-serie="Monarch: El Legado De Los Monstruos" tvg-season="1", Monarch: El Legado De Los Monstruos | S1 - Episode 9
+https://ia600108.us.archive.org/28/items/apple.tv.plus.series.premium.01/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1E09.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Monarch: El Legado De Los Monstruos | S1 - Episode 10" tvg-logo="https://i.postimg.cc/9MpQST86/Monarch-El-Legado-de-los-Monstruos-S1.webp" serie-title="Monarch: El Legado De Los Monstruos" tvg-type="serie" tvg-serie="Monarch: El Legado De Los Monstruos" tvg-season="1", Monarch: El Legado De Los Monstruos | S1 - Episode 10
+https://ia600108.us.archive.org/28/items/apple.tv.plus.series.premium.01/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1/Monarch%20El%20Legado%20de%20los%20Monstruos%20S1E10.mkv
 
 
 
