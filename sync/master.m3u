@@ -146,6 +146,9 @@ https://archive.org/download/netflix.premium2.0_202502/Big%20Fat%20Liar%20%28200
 https://archive.org/download/netflix.premium2.0_202502/Titanes%20Del%20Pac%C3%ADfico%20%282013%29.mp4
 #EXTINF:0 group-title="NETFLIX" tvg-name="Titanes Del Pacífico: La Insurrección (2018)" tvg-logo="https://i.ibb.co/wr8FB5Tz/Pacific-Rim-2.webp" tvg-type="movie", Titanes Del Pacífico: La Insurrección (2018)
 https://archive.org/download/netflix.premium2.0_202502/Titanes%20Del%20Pac%C3%ADfico%20La%20Insurrecci%C3%B3n%20%282018%29.mp4
+#EXTINF:0 group-title="NETFLIX" tvg-name="Proyecto Geminis (2019)" tvg-logo="https://i.ibb.co/cSMf5JGP/Proyecto-Geminis.webp" tvg-type="movie", Proyecto Geminis (2019)
+https://archive.org/download/netflix.premium.cinesync09/Proyecto%20G%C3%A9minis%20%282019%29.mp4
+
 
 
 
@@ -208,6 +211,9 @@ https://archive.org/download/primevideo.premium10/After%20Almas%20Perdidas%20%28
 https://archive.org/download/primevideo.premium10/After%20Amor%20Infinito%20%282022%29.mkv
 #EXTINF:0 group-title="PRIME VIDEO" tvg-name="After: Para Siempre (2023)" tvg-logo="https://i.ibb.co/mr5XjBhd/After5.webp" tvg-type="movie", After: Para Siempre (2023)
 https://archive.org/download/primevideo.premium10/After%20Para%20Siempre%20%282023%29.mkv
+#EXTINF:0 group-title="PRIME VIDEO" tvg-name="60 Segundos (2000)" tvg-logo="https://i.ibb.co/JjKsZ3bs/60-Segundos.webp" tvg-type="movie", 60 Segundos (2000)
+https://archive.org/download/prime.video.premium.cinesync09/60%20Segundos%20%282000%29.avi
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -308,10 +314,6 @@ https://archive.org/download/appletvplus.premium02/El%20Abismo%20Secreto%20%2820
 https://archive.org/download/appletvplus.premium02/Monster%20Hunter%20La%20Cacer%C3%ADa%20Comienza%20%282020%29.mkv
 #EXTINF:0 group-title="APPLE TV +" tvg-name="Aprendices Fuera De Línea (2013)" tvg-logo="https://i.ibb.co/NwsyWRP/Aprendices-Fuera-De-L-nea-2013.webp" tvg-type="movie", Aprendices Fuera De Línea (2013)
 https://archive.org/download/apple.tv.plus.mk.version/Aprendices%20Fuera%20De%20L%C3%ADnea%20%282013%29.mkv
-#EXTINF:0 group-title="APPLE TV +" tvg-name="Diario De Una Princesa (2001)" tvg-logo="https://i.ibb.co/20rjrQCT/Diario-De-Una-Princesa.webp" tvg-type="movie", Diario De Una Princesa (2001)
-https://archive.org/download/apple.tv.plus.premium.cinesync09/El%20Diario%20de%20la%20Princesa%20%282001%29.mkv
-#EXTINF:0 group-title="APPLE TV +" tvg-name="Diario De Una Princesa 2 (2004)" tvg-logo="https://i.ibb.co/BHKSbJ2j/Diario-De-Una-Princesa-2.webp" tvg-type="movie", Diario De Una Princesa 2 (2004)
-https://archive.org/download/apple.tv.plus.premium.cinesync09/El%20Diario%20de%20la%20Princesa%202%20%282004%29.mkv
 
 
 
@@ -347,6 +349,12 @@ https://archive.org/download/disneyplus.premium.2.0/Pelotas%20En%20Juego%20%2820
 https://archive.org/download/Disney.plus.premium.cinesync09/La%20Leyenda%20del%20Tesoro%20Perdido%20%282004%29.mkv
 #EXTINF:0 group-title="DISNEY +" tvg-name="La Leyenda Del Tesoro Perdido: El Diario Secreto (2007)" tvg-logo="https://i.ibb.co/0RXsLDBy/La-Leyenda-Del-Tesoro-Perdido-2.webp" tvg-type="movie", La Leyenda Del Tesoro Perdido: El Diario Secreto (2007)
 https://archive.org/download/Disney.plus.premium.cinesync09/La%20Leyenda%20del%20Tesoro%20Perdido%202%20El%20Libro%20de%20los%20Secretos%20%282007%29.mkv
+#EXTINF:0 group-title="DISNEY +" tvg-name="El Diario De La Princesa (2001)" tvg-logo="https://i.ibb.co/20rjrQCT/Diario-De-Una-Princesa.webp" tvg-type="movie", Diario De Una Princesa (2001)
+https://archive.org/download/apple.tv.plus.premium.cinesync09/El%20Diario%20de%20la%20Princesa%20%282001%29.mkv
+#EXTINF:0 group-title="DISNEY +" tvg-name="El Diario De La Princesa 2 (2004)" tvg-logo="https://i.ibb.co/BHKSbJ2j/Diario-De-Una-Princesa-2.webp" tvg-type="movie", Diario De Una Princesa 2 (2004)
+https://archive.org/download/apple.tv.plus.premium.cinesync09/El%20Diario%20de%20la%20Princesa%202%20%282004%29.mkv
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
