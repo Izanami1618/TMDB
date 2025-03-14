@@ -270,7 +270,8 @@ https://archive.org/download/rapidos-y-furiosos-la-saga_202502/R%C3%A1pidos%20Y%
 https://archive.org/download/rapidos-y-furiosos-la-saga_202502/R%C3%A1pidos%20Y%20Furiosos%209%20%282021%29.mp4
 #EXTINF:0 group-title="HBO MAX" tvg-name="Con Todos Menos Contigo (2023)" tvg-logo="https://i.ibb.co/N6ZxwvZz/Con-Todos-Menos-Contigo.webp" tvg-type="movie", Con Todos Menos Contigo (2023)
 https://archive.org/download/hbomax.premium2.0/Con%20Todos%20Menos%20Contigo%20%282023%29.mkv
-
+#EXTINF:0 group-title="HBO MAX" tvg-name="Rey Arturo: La Leyenda De La Espada (2017)" tvg-logo="https://i.ibb.co/9m0jK6J3/Rey-Arturo-La-Leyenda-De-La-Espada.webp" tvg-type="movie", Rey Arturo: La Leyenda De La Espada (2017)
+https://archive.org/download/HBO.max.premium.cinesync09/El%20Rey%20Arturo%20La%20Leyenda%20de%20la%20Espada%20%282017%29.mp4
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -307,6 +308,11 @@ https://archive.org/download/appletvplus.premium02/El%20Abismo%20Secreto%20%2820
 https://archive.org/download/appletvplus.premium02/Monster%20Hunter%20La%20Cacer%C3%ADa%20Comienza%20%282020%29.mkv
 #EXTINF:0 group-title="APPLE TV +" tvg-name="Aprendices Fuera De Línea (2013)" tvg-logo="https://i.ibb.co/NwsyWRP/Aprendices-Fuera-De-L-nea-2013.webp" tvg-type="movie", Aprendices Fuera De Línea (2013)
 https://archive.org/download/apple.tv.plus.mk.version/Aprendices%20Fuera%20De%20L%C3%ADnea%20%282013%29.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Diario De Una Princesa (2001)" tvg-logo="https://i.ibb.co/20rjrQCT/Diario-De-Una-Princesa.webp" tvg-type="movie", Diario De Una Princesa (2001)
+https://archive.org/download/apple.tv.plus.premium.cinesync09/El%20Diario%20de%20la%20Princesa%20%282001%29.mkv
+#EXTINF:0 group-title="APPLE TV +" tvg-name="Diario De Una Princesa 2 (2004)" tvg-logo="https://i.ibb.co/BHKSbJ2j/Diario-De-Una-Princesa-2.webp" tvg-type="movie", Diario De Una Princesa 2 (2004)
+https://archive.org/download/apple.tv.plus.premium.cinesync09/El%20Diario%20de%20la%20Princesa%202%20%282004%29.mkv
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -337,6 +343,10 @@ https://archive.org/download/disney.plus2.0/Percy%20Jackson%20Y%20Los%20Dioses%2
 https://archive.org/download/disney.plus2.0/Percy%20Jackson%20Y%20El%20Mar%20De%20Los%20Monstruos%20%282013%29.mp4
 #EXTINF:0 group-title="DISNEY +" tvg-name="Pelotas En Juego (2004)" tvg-logo="https://i.ibb.co/4wxFb3hN/Pelotas-En-Juego.webp" tvg-type="movie", Pelotas En Juego (2004)
 https://archive.org/download/disneyplus.premium.2.0/Pelotas%20En%20Juego%20%282004%29.mkv
+#EXTINF:0 group-title="DISNEY +" tvg-name="La Leyenda Del Tesoro Perdido (2004)" tvg-logo="https://i.ibb.co/6QMXvfY/La-Leyenda-Del-Tesoro-Perdido.webp" tvg-type="movie", La Leyenda Del Tesoro Perdido (2004)
+https://archive.org/download/Disney.plus.premium.cinesync09/La%20Leyenda%20del%20Tesoro%20Perdido%20%282004%29.mkv
+#EXTINF:0 group-title="DISNEY +" tvg-name="La Leyenda Del Tesoro Perdido: El Diario Secreto (2007)" tvg-logo="https://i.ibb.co/0RXsLDBy/La-Leyenda-Del-Tesoro-Perdido-2.webp" tvg-type="movie", La Leyenda Del Tesoro Perdido: El Diario Secreto (2007)
+https://archive.org/download/Disney.plus.premium.cinesync09/La%20Leyenda%20del%20Tesoro%20Perdido%202%20El%20Libro%20de%20los%20Secretos%20%282007%29.mkv
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -396,7 +406,8 @@ https://archive.org/download/sagas_202501/TRANSFORMERS%20-%20THE%20LAST%20KNIGHT
 https://archive.org/download/sagas_202501/TRANSFORMERS%20-%20RISE%20OF%20THE%20BEAST%20%282023%29.mkv
 #EXTINF:0 group-title="PARAMOUNT +" tvg-name="Gladiador II (2024)" tvg-logo="https://i.ibb.co/PvjVK9ZV/Gladiador-2.webp" tvg-type="movie", Gladadior II (2024)
 https://archive.org/download/estrenos-2024/Gladiador%20II%20%282024%29.mkv
-
+#EXTINF:0 group-title="PARAMOUNT +" tvg-name="Top Gun: Maverick (2022)" tvg-logo="https://i.ibb.co/J6VT5NP/Top-Gun-Maverick.webp" tvg-type="movie", Top Gun: Maverick (2022)
+https://archive.org/download/paramount.plus.premium.cinesync09/Top%20Gun%20Maverick%20%282022%29.mkv
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
